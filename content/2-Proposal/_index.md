@@ -34,7 +34,7 @@ The solution reduces teachers’ manual workload, improves transparency and fair
 ### 3. Solution Architecture
 EduTrust applies a **fullstack monorepo** architecture with a Python FastAPI backend and a Next.js frontend, deployed via Docker. Data is stored in MongoDB (users, exams, classes, submissions, violations), session/conversation cache uses Redis, and violation images are stored in Amazon S3. The architecture is shown below:
 
-![EduTrust Solution Architecture](/images/2-Proposal/edutrust-architect.png)
+![EduTrust Solution Architecture](edutrust-architect.png)
 
 ### Services & Technology (Aligned with Architecture)
 - **AWS Amplify + CloudFront**: Hosts the Next.js frontend and delivers content via CDN.
