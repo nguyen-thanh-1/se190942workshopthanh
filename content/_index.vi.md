@@ -7,25 +7,25 @@ chapter: false
 
 # Báo cáo thực tập
 ### Thông tin sinh viên:
-&emsp; **Họ và tên:** Nguyễn Văn A
+&emsp; **Họ và tên:** Nguyễn Thiện Thanh
 
-&emsp; **Số điện thoại:** 0989888999
+&emsp; **Số điện thoại:** 0908195957
 
-&emsp; **Email:** Anguyenvan@gmail.com
+&emsp; **Email:** ntthanh14052005@gmail.com
 
-&emsp; **Trường:** Đại học Sư phạm Kỹ thuật TP.HCM
+&emsp; **Trường:** Đại học FPT HCM
 
-&emsp; **Ngành:** Công nghệ thông tin
+&emsp; **Ngành:** AI
 
-&emsp; **Lớp:** AWS082025
+&emsp; **Lớp:** SE190942
 
 &emsp; **Công ty thực tập:** Công ty TNHH Amazon Web Services Vietnam
 
 &emsp; **Vị trí thực tập:** FCJ Cloud Intern
 
-&emsp; **Thời gian thực tập:** Từ ngày 12/08/2025 đến ngày 12/11/2025
+&emsp; **Thời gian thực tập:** Từ ngày 5/01/2026 đến ngày 18/4/2026
 
-![Ảnh đại diện của bạn](/images/avatar.png)
+![Ảnh đại diện của bạn](/images/avatar.jpeg)
 
 
 
