@@ -1,12 +1,23 @@
 ---
 title: "Event 3"
 date: 2024-01-01
-weight: 1
+weight: 3
 chapter: false
 pre: " <b> 4.3. </b> "
 ---
 
-# Bài thu hoạch “AWS First Cloud AI Journey Community Day 2026”
+# Bài thu hoạch “Cloud Mastery Series #2: DevOps Fundamentals & Infrastructure”
+
+### Thông tin sự kiện
+
+- **Tên sự kiện:** Cloud Mastery Series #2: DevOps Fundamentals & Infrastructure  
+- **Thời gian:** 09:00 – 12:00, ngày 04 tháng 04 năm 2026  
+- **Địa điểm:** FPTU - Hall Academic A  
+- **Vai trò:** Người tham dự  
+
+### Mô tả
+
+Phiên làm việc này tập trung vào các nguyên lý DevOps, bao gồm Cơ sở hạ tầng dưới dạng Mã (IaC), hệ thống CI/CD (CI/CD pipelines), và duy trì tính ổn định của hệ thống trên nền tảng Đám mây.
 
 ### Mục tiêu sự kiện
 

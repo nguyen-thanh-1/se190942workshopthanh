@@ -1,86 +1,92 @@
 ---
 title: "Event 2"
 date: 2024-01-01
-weight: 1
+weight: 2
 chapter: false
 pre: " <b> 4.2. </b> "
 ---
 
-# Bài thu hoạch “Cloud Mastery Series #2: DevOps Fundamentals & Infrastructure”
+# Bài thu hoạch “AWS First Cloud AI Journey Community Day 2026”
+
+![alt text](event2.2.jpg)
 
 ### Thông tin sự kiện
 
-- **Tên sự kiện:** Cloud Mastery Series #2: DevOps Fundamentals & Infrastructure  
-- **Thời gian:** 09:00 – 12:00, ngày 04 tháng 04 năm 2026  
-- **Địa điểm:** FPTU - Hall Academic A  
+- **Tên sự kiện:** AWS First Cloud AI Journey Community Day 2026  
+- **Thời gian:** 09:00 – 12:00, Thứ Bảy, ngày 21/03/2026  
+- **Địa điểm:** Tầng 26, Bitexco Financial Tower, TP. Hồ Chí Minh (AWS HCM Office)  
+- **Vai trò:** Người tham dự  
 
 ### Mô tả
 
-Phiên làm việc này tập trung vào các nguyên lý DevOps, bao gồm Cơ sở hạ tầng dưới dạng Mã (IaC), hệ thống CI/CD (CI/CD pipelines), và duy trì tính ổn định của hệ thống trên nền tảng Đám mây.
+Đây là sự kiện cộng đồng quy tụ các chuyên gia trong lĩnh vực Cloud và AI nhằm chia sẻ kiến thức, xu hướng công nghệ mới, đặc biệt là trong hệ sinh thái Cloud và Generative AI.
+
+Sự kiện cũng là buổi kickoff chính thức của FCAJ Bootcamp 2026, mở đầu hành trình học tập và phát triển kỹ năng Cloud cho sinh viên. Ngoài các bài chia sẻ chuyên môn, người tham gia còn có cơ hội trải nghiệm demo thực tế và mở rộng networking với các kỹ sư, chuyên gia trong ngành.
 
 ### Mục tiêu sự kiện
 
-- Hệ thống hóa kiến thức về IaC: Cung cấp cái nhìn toàn diện về Infrastructure as Code và cách triển khai thực tế với Terraform trên AWS.  
-- Làm chủ điều phối Container: Giới thiệu kiến trúc Kubernetes (K8s) và cách quản lý ứng dụng hiện đại trên môi trường Cloud-native.  
-- Tối ưu hóa vận hành với Elixir: Khám phá giải pháp Elixir/Erlang như một công cụ thống nhất cho hệ thống DevOps có độ sẵn sàng cao và khả năng chịu lỗi.  
-- Thực hành thực tế (Hands-on): Trình diễn các kỹ thuật triển khai hạ tầng và ứng dụng thông qua Demo trực tiếp.  
-
+- Kết nối cộng đồng Cloud & AI tại Việt Nam
+- Cập nhật xu hướng mới về Generative AI và hệ thống Cloud
+- Giới thiệu các ứng dụng thực tế của AI trong production
+- Định hướng nghề nghiệp trong lĩnh vực Platform Engineering, DevOps, AI Engineering
+- Tạo môi trường học tập và phát triển cho sinh viên thông qua Bootcamp
 ### Diễn giả
 
-- Thinh Nguyễn – FCAJ Cloud Engineer Trainee (Chuyên gia về IaC & Terraform).  
-- Bảo Huỳnh – Junior Cloud Native Developer tại Endava / Founder ITea Lab (Chuyên gia Kubernetes).  
-- Nguyễn Tạ Minh Triết – R&D Member tại ITea Lab / SAP Developer Intern tại Bosch GSV (Chuyên gia Elixir).  
+- Hải Bùi – Engineering Manager (GotymeX)
+- Phúc Đặng – Cloud Architect (GotymeX)
+- Pháp Nguyễn – Cloud Engineer (VPBank)
+- Phát Phạm – Software Engineer (Katalon)
+- Nghi Danh – AI Engineer (Renova Cloud)
+- Phong Nguyễn – Senior Software Engineer (Sympli)
+- Thịnh Nguyễn – DevOps Engineer (FCAJ)
 
 ### Điểm nổi bật
 
-#### Infrastructure as Code (IaC) với Terraform
-
-- Phân tích sự dịch chuyển từ "ClickOps" sang tự động hóa hạ tầng để tránh sai sót con người và tăng tính nhất quán.  
-- So sánh AWS CloudFormation, AWS CDK và Terraform (HCL).  
-- Quy trình quản lý State file và các lệnh thực thi cốt lõi (plan, apply, destroy).  
-
-#### Kubernetes (K8s) Architecture
-
-- Giải quyết thách thức quản lý hàng ngàn container: tự phục hồi (self-healing) và tự động mở rộng (auto-scaling).  
-- Đi sâu vào các thành phần: Control Plane, Worker Nodes, Pods, Deployments và Services.  
-- Giới thiệu công cụ hỗ trợ: Helm (quản lý package) và K9s (giao diện terminal trực quan).  
-
-#### Elixir in DevOps Pipeline
-
-- Sức mạnh của máy ảo BEAM trong việc xử lý hàng triệu kết nối đồng thời với chi phí cực thấp.  
-- Triết lý "Let it crash": Sử dụng Supervision Trees để hệ thống tự phục hồi mà không cần can thiệp thủ công.  
-- Case study: Chuyển đổi từ Serverless (Node.js/Lambda) sang Elixir giúp giảm chi phí từ $30,000/tháng xuống còn dưới $400/tháng.  
+- Chủ đề xuyên suốt: Agentic AI & GenAI trong thực tế
+- Các nội dung đáng chú ý:
+  - Platform Engineering & Career Pathways
+  - GenAIOps – đưa AI vào production
+  - Agentic Coding & Productivity tools
+  - Multimodal AI, GraphRAG, Multi-Agent Systems
+- Có demo thực tế trên AWS (Bedrock, EKS, Langfuse,...)
+- Networking với chuyên gia trong ngành 
 
 ### Kết quả rút ra
 
-- Tư duy tự động hóa: Hạ tầng không còn là các server đơn lẻ mà là các dòng code có thể phiên bản hóa (versioning) và tái sử dụng.  
-- Quản lý Cluster hiệu quả: Hiểu rõ Amazon EKS là giải pháp tối ưu cho doanh nghiệp để giảm bớt gánh nặng quản lý Control Plane của Kubernetes.  
-- Khả năng chịu lỗi (Fault-Tolerance): Việc thiết kế hệ thống có khả năng tự phục hồi (như trong Elixir) quan trọng hơn việc cố gắng viết code không bao giờ lỗi.  
-- Tối ưu hóa chi phí (Cost Optimization): Lựa chọn đúng công nghệ (như Elixir cho các task tính toán song song) có thể mang lại hiệu quả ROI vượt trội so với các mô hình truyền thống.  
+- Hiểu rõ hơn về cách AI được triển khai trong môi trường production
+- Nắm được xu hướng chuyển dịch từ DevOps → Platform Engineering
+- Biết thêm về kiến trúc hệ thống AI hiện đại (Multi-agent, RAG, Observability)
+- Có cái nhìn rõ ràng hơn về lộ trình nghề nghiệp trong Cloud & AI
 
 ### Ứng dụng vào công việc
 
-- Định hướng dự án EduTrust: Sử dụng Terraform để thiết lập hạ tầng AWS một cách chuẩn hóa, giúp dễ dàng sao chép môi trường (Dev/Staging/Prod).  
-- Triển khai ứng dụng: Cân nhắc đóng gói các microservices của EduTrust vào Docker và điều phối bằng Kubernetes để đảm bảo tính sẵn sàng cao.  
-- Cải thiện hiệu suất: Tìm hiểu sâu hơn về kiến trúc hướng sự kiện (Event-driven) thông qua cách Elixir xử lý tiến trình để áp dụng vào các tính năng cần xử lý thời gian thực.  
+- Áp dụng tư duy GenAIOps vào các dự án AI (monitoring, logging, scaling)
+- Sử dụng các công cụ như:
+  - RAG cho hệ thống truy vấn dữ liệu
+  - Multi-agent để chia nhỏ bài toán
+- Tối ưu pipeline AI (training → deployment → monitoring)
+- Định hướng xây dựng hệ thống AI thực tế thay vì chỉ dừng ở model
 
 ### Trải nghiệm sự kiện
 
-Chuỗi workshop mang lại một hành trình từ hạ tầng đến ứng dụng rất logic:  
-
-- Nội dung chuyên sâu: Không chỉ dừng lại ở lý thuyết, các phiên Demo về Terraform và K9s giúp hình dung rõ cách vận hành thực tế của một kỹ sư Cloud.  
-- Góc nhìn đa chiều: Sự kết hợp giữa công nghệ phổ biến (AWS, K8s) và công nghệ đặc thù hiệu suất cao (Elixir) giúp mở rộng tư duy chọn lựa giải pháp.  
-- Sự kết nối: Cơ hội trao đổi với các diễn giả có kinh nghiệm thực chiến từ các tập đoàn lớn như Endava và Bosch.  
+- Không khí năng động, chuyên nghiệp nhưng vẫn rất cởi mở
+- Nội dung chia sẻ thực tế, không quá lý thuyết
+- Có nhiều góc nhìn từ nhiều vị trí khác nhau (DevOps, AI, Cloud)
+- Cơ hội networking rất tốt với người trong ngành
 
 ### Bài học rút ra
 
-- Hiện đại hóa hạ tầng bắt buộc phải đi kèm với IaC để đảm bảo tốc độ và an toàn.  
-- Kubernetes là "hệ điều hành" của đám mây, nhưng cần các công cụ bổ trợ như Helm và K9s để quản trị hiệu quả.  
-- Đừng ngại thử nghiệm các ngôn ngữ/nền tảng mới (như Elixir) nếu chúng giải quyết được bài toán về chi phí và độ tin cậy tốt hơn các giải pháp phổ thông.  
+- AI không chỉ là model → quan trọng là deployment & vận hành
+- Kiến thức Cloud là nền tảng bắt buộc nếu muốn làm AI thực tế
+- Xu hướng tương lai là Agentic AI + Automation
+- Muốn phát triển lâu dài cần:
+  - Hiểu system design
+  - Biết MLOps / DevOps
+  - Có tư duy sản phẩm 
 
 ### Một số hình ảnh tham gia sự kiện
 
-(Chưa có ảnh sự kiện)
+![alt text](event2.1.jpg)
 
 ### Tổng kết
 

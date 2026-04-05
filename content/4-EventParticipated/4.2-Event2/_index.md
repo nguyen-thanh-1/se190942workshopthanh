@@ -1,87 +1,94 @@
 ---
 title: "Event 2"
 date: 2024-01-01
-weight: 1
+weight: 2
 chapter: false
 pre: " <b> 4.2. </b> "
 ---
 
-# Summary Report: “Cloud Mastery Series #2: DevOps Fundamentals & Infrastructure”
+# Summary Report: “AWS First Cloud AI Journey Community Day 2026”
+
+![alt text](event2.2.jpg)
 
 ### Event Information
 
-- **Event Name:** Cloud Mastery Series #2: DevOps Fundamentals & Infrastructure  
-- **Date & Time:** 09:00 – 12:00, April 04, 2026  
-- **Location:** FPTU - Hall Academic A  
+- **Event Name:** AWS First Cloud AI Journey Community Day 2026  
+- **Date & Time:** 09:00 – 12:00, Saturday, March 21, 2026  
+- **Location:** 26th Floor, Bitexco Financial Tower, Ho Chi Minh City (AWS HCM Office)  
+- **Role:** Attendee
 
 ### Description
 
-This session focused on DevOps principles, including Infrastructure as Code (IaC), CI/CD pipelines, and maintaining system stability on the Cloud platform.
+This is a community event that brings together experts in the fields of Cloud and AI to share knowledge and the latest technology trends, especially within the Cloud and Generative AI ecosystem.
+
+The event also serves as the official kickoff of the FCAJ Bootcamp 2026, marking the beginning of a learning journey and skill development in Cloud for students. In addition to technical talks, participants have the opportunity to experience real-world demos and expand their network with engineers and industry experts.
 
 ### Event Objectives
 
-- Systematize IaC knowledge: Provide a comprehensive insight into Infrastructure as Code and practical deployment with Terraform on AWS.
-- Master Container Orchestration: Introduce Kubernetes (K8s) architecture and modern application management in Cloud-native environments.
-- Optimize operations with Elixir: Explore Elixir/Erlang as a unified tool for high-availability and fault-tolerant DevOps systems.
-- Hands-on Practice: Demonstrate infrastructure and application deployment techniques via live Demos.
+- Connect the Cloud & AI community in Vietnam
+- Update new trends in Generative AI and Cloud systems
+- Introduce real-world applications of AI in production
+- Provide career orientation in Platform Engineering, DevOps, and AI Engineering
+- Create a learning and development environment for students through the Bootcamp
 
 ### Speakers
 
-- Mr. Thinh Nguyen – FCAJ Cloud Engineer Trainee (Expert in IaC & Terraform).  
-- Mr. Bao Huynh – Junior Cloud Native Developer at Endava / Founder of ITea Lab (Kubernetes Expert).  
-- Mr. Nguyen Ta Minh Triet – R&D Member at ITea Lab / SAP Developer Intern at Bosch GSV (Elixir Expert).  
+- Hai Bui – Engineering Manager (GotymeX)
+- Phuc Dang – Cloud Architect (GotymeX)
+- Phap Nguyen – Cloud Engineer (VPBank)
+- Phat Pham – Software Engineer (Katalon)
+- Nghi Danh – AI Engineer (Renova Cloud)
+- Phong Nguyen – Senior Software Engineer (Sympli)
+- Thinh Nguyen – DevOps Engineer (FCAJ)
 
 ### Highlights
 
-#### Infrastructure as Code (IaC) with Terraform
-
-- Analyzing the shift from "ClickOps" to infrastructure automation to avoid human error and increase consistency.
-- Comparing AWS CloudFormation, AWS CDK, and Terraform (HCL).
-- State file management process and core execution commands (plan, apply, destroy).
-
-#### Kubernetes (K8s) Architecture
-
-- Solving the challenge of managing thousands of containers: self-healing and auto-scaling.
-- Deep dive into components: Control Plane, Worker Nodes, Pods, Deployments, and Services.
-- Introducing supporting tools: Helm (package manager) and K9s (intuitive terminal UI).
-
-#### Elixir in DevOps Pipeline
-
-- The power of the BEAM virtual machine in handling millions of concurrent connections at extremely low cost.
-- The "Let it crash" philosophy: Using Supervision Trees so the system self-heals without manual intervention.
-- Case study: Transitioning from Serverless (Node.js/Lambda) to Elixir reduced costs from $30,000/month to under $400/month.
+- Main theme: Agentic AI & GenAI in real-world applications
+- Key topics:
+  - Platform Engineering & Career Pathways
+  - GenAIOps – bringing AI into production
+  - Agentic Coding & Productivity tools
+  - Multimodal AI, GraphRAG, Multi-Agent Systems
+- Real demos on AWS (Bedrock, EKS, Langfuse, etc.)
+- Networking with industry experts
 
 ### Key Takeaways
 
-- Automation Mindset: Infrastructure is no longer individual servers but versionable and reusable lines of code.
-- Effective Cluster Management: Understanding Amazon EKS as an optimal enterprise solution to reduce the burden of managing the Kubernetes Control Plane.
-- Fault-Tolerance: Designing systems capable of self-healing (as in Elixir) is more important than struggling to write code that never fails.
-- Cost Optimization: Choosing the right technology (like Elixir for parallel parallel computing tasks) can yield an ROI vastly superior to traditional models.
+- Better understanding of how AI is deployed in production environments
+- Clear view of the shift from DevOps to Platform Engineering
+- More knowledge about modern AI system architectures (Multi-agent, RAG, Observability)
+- A clearer perspective on career paths in Cloud & AI
 
 ### Application to Work
 
-- EduTrust Project Direction: Use Terraform to establish standardized AWS infrastructure, making it easy to replicate environments (Dev/Staging/Prod).
-- Application Deployment: Consider packaging EduTrust's microservices into Docker and orchestrating them with Kubernetes to ensure High Availability.
-- Performance Improvement: Delve deeper into Event-driven architecture via how Elixir handles processes to apply it to features requiring real-time processing.
+- Apply GenAIOps mindset to AI projects (monitoring, logging, scaling)
+- Use tools and approaches such as:
+  - RAG for data retrieval systems
+  - Multi-agent systems for problem decomposition
+- Optimize AI pipelines (training → deployment → monitoring)
+- Focus on building real-world AI systems instead of only models 
 
 ### Event Experience
 
-The workshop series provided a very logical journey from infrastructure to application:
-
-- In-depth content: Beyond just theory, the Live Demos on Terraform and K9s helped visualize the actual operations of a Cloud engineer.
-- Multi-dimensional Perspective: The combination of popular technology (AWS, K8s) and high-performance specialized technology (Elixir) broadens the mindset in solution selection.
-- Networking: Opportunities to exchange ideas with experienced speakers from major corporations like Endava and Bosch.
+- Energetic, professional, and open atmosphere
+- Practical content, not overly theoretical
+- Diverse perspectives from different roles (DevOps, AI, Cloud)
+- Great networking opportunities with industry professionals
 
 ### Lessons Learned
 
-- Modernizing infrastructure must be accompanied by IaC to ensure speed and safety.
-- Kubernetes is the "operating system" of the cloud, but requires supplementary tools like Helm and K9s for effective governance.
-- Don't hesitate to trial new languages/platforms (like Elixir) if they solve cost and reliability problems better than mainstream solutions.
+- AI is not just about models → deployment and operations are critical
+- Cloud knowledge is essential for real-world AI development
+- Future trend: Agentic AI + Automation
+- To grow long-term, it is necessary to:
+  - Understand system design
+  - Learn MLOps / DevOps
+  - Develop product thinking
 
 ### Event Photos
 
-(No event photos yet)
+![alt text](event2.1.jpg)
 
 ### Conclusion
 
-The event series provided a solid foundational knowledge base on modern DevOps. This is a critical foundation for me to apply in the professional building and operation of the EduTrust project, fully ready for large-scale Cloud challenges.
+The AWS First Cloud AI Journey Community Day 2026 provided a comprehensive view of the development trends in Cloud and Generative AI, especially how AI systems are deployed and operated in production environments. Through expert sharing, I gained a deeper understanding of career directions in AI/Cloud and recognized the importance of Platform Engineering, GenAIOps, and system-thinking approaches. This was a valuable experience that helped me clearly define my career path and prepared me to apply the acquired knowledge to real-world projects in the future.
