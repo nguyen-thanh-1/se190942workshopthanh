@@ -13,7 +13,7 @@ pre: " <b> 1.4. </b> "
 -->
 
 ### Goals for week 4: (Practice Phase)
-* [Backend & AI] Focus on Backend development and heavily emphasize improving and refining Prompts for the Pydantic AI agent to optimize the ReAct system, ensuring accurate AI expert responses.
+* Focus on Backend development and heavily emphasize improving and refining Prompts for the Pydantic AI agent to optimize the ReAct system, ensuring accurate AI expert responses.
 * Build the Backend platform using FastAPI.
    * Lead Backend programming, set up RESTful API Routes and build a centralized Router for exams, connecting AI processing seamlessly and optimizing the fast Streaming logic.
 * Implement user authentication system via JWT/Cognito.

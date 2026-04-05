@@ -12,7 +12,7 @@ pre: " <b> 1.4. </b> "
 -->
 
 ### Mục tiêu tuần 4: (Giai đoạn Thực hành)
-* [Backend & AI] Tập trung làm Backend và đặc biệt nhấn mạnh vào việc cải thiện, tinh chỉnh thêm Prompt cho Pydantic AI agent để tối ưu hệ thống ReAct, bảo đảm chuyên gia AI trả lời chính xác.
+* Tập trung làm Backend và đặc biệt nhấn mạnh vào việc cải thiện, tinh chỉnh thêm Prompt cho Pydantic AI agent để tối ưu hệ thống ReAct, bảo đảm chuyên gia AI trả lời chính xác.
 * Xây dựng nền tảng Backend bằng FastAPI.
    * Đảm nhận lập trình Backend, thiết lập các API Route cơ bản hỗ trợ hệ thống Router tập trung cho thi cử và kết nối AI thay vì các Framework cồng kềnh khác, giúp tối ưu phương thức Streaming tốc độ.
 * Triển khai hệ thống xác thực người dùng (Authentication) qua JWT/Cognito.

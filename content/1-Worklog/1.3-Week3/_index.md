@@ -15,19 +15,20 @@ pre: " <b> 1.3. </b> "
 ### Goals for week 3: (Practice Phase)
 * Take charge of building the core Backend, start implementing the data framework, and prepare for AI integration to make the system process seamlessly.
 * Detailed business analysis for the EduTrust platform.
-* Design NoSQL database schema (MongoDB) and AI processing flow.
-* Finalize the SRS (Software Requirements Specification) document.
+* Design prompts and AI processing flow.
+* Deploy and experiment with basic API endpoints.
 
 ### Tasks to be implemented this week:
 | Day | Task | Start Date | End Date | References |
 | --- | --- | --- | --- | --- |
 | Mon | Group meeting to unify main modules: Online Exam, AI Proctoring, and Chatbot. | 19/01 | 19/01 | - |
 | Tue | List features (Features List) for 3 roles: Admin, Teacher, Student. | 20/01 | 20/01 | - |
-| Wed | Write the SRS document detailing screens and violation processing logic. | 21/01 | 21/01 | - |
-| Thu | Research MongoDB Atlas and design Schema (collections: users, exams, violations). | 22/01 | 22/01 | - |
-| Fri | Draw the system architecture diagram combining FastAPI and Next.js. <br> + Design data flow for the real-time camera proctoring feature. <br> + Review the entire design with the AI Engineer team. | 23/01 | 23/01 | - |
+| Wed | - Experiment with prompts and develop prompts for AI Agents to optimize outputs. <br> - Process routing for AI Agents. | 21/01 | 21/01 | - |
+| Thu | - Start building FastAPI, build core AI endpoint and test responses to assess prompt optimization. <br> - Verify if the multi-agent structure runs correctly | 22/01 | 22/01 | - |
+| Fri | Draw FastAPI system architecture diagram (Platform Architecture) <br> + Design data flow for real-time camera proctoring feature, execute tests and sample AI camera models. <br> + Review the entire design with the AI Engineer team. | 23/01 | 23/01 | - |
 
 ### Results achieved in week 3:
 * Completed the EduTrust architectural framework aimed at scalability on AWS.
-* System design documentation and Database schema are ready.
-* Clearly defined technologies: FastAPI for Backend and MongoDB for Database.
+* Successfully built basic API endpoints, tested and derived optimal prompts for different Agents.
+* Clearly defined technologies: FastAPI for Backend, tested and sampled AI camera models.
+* Successfully designed the basic structure, laying the foundation for future project development.
