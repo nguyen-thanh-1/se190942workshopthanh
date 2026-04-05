@@ -5,29 +5,32 @@ weight: 1
 chapter: false
 pre: " <b> 1.1. </b> "
 ---
+
 <!--
 {{% notice warning %}}
-⚠️ **Note:** The following information is for reference purposes only. Please **do not copy verbatim** for your own report, including this warning.
+⚠️ **Note:** The information below is for reference only, please **do not verbatim copy** for your report including this warning.  
 {{% /notice %}}
 -->
 
-### Week 1 Objectives:
-* Form the project group and finalize the "EduTrust" topic.
-* Set up the team's working environment using Git and Jira.
-* Initial research on necessary Cloud services (IAM, S3, Amplify).
+### Goals for week 1: (Exploration Phase)
+* [Team Leader] Take on the Leader role, hold meetings to brainstorm detailed ideas for the EduTrust project, and unify everyone's opinions on the core feature developments.
+* Form a project team and agree on choosing the EduTrust topic.
+* Set up a team working environment via Git, Jira.
+   * Use a Git Monorepo model to easily manage and sync both Backend (FastAPI) and Frontend (Next.js/React).
+   * Apply Agile on Jira, creating concise Epics and Tickets for the 5 members to prevent task conflicts.
+* Conduct preliminary research on necessary Cloud services (IAM, S3, Amplify).
+   * Practice strict IAM permissions (restricted Access Keys) to ensure the Backend safely interacts with the S3 Bucket later.
 
-### Tasks to be carried out this week:
+### Tasks to be implemented this week:
 | Day | Date | Task |
 | --- | --- | --- |
-| Mon | 05/01 | Team introduction and connection with the 5-member group. |
-| Tue | 06/01 | Finalized the topic: "EduTrust - AI-Integrated Online Exam Platform". |
-| Wed | 07/01 | Set up Git monorepo structure and team workflow protocols. |
-| Thu | 08/01 | Initialized Jira project and assigned roles to members. |
-| Fri | 09/01 | Registered personal AWS account and configured MFA for root security. |
-| Sat | 10/01 | Researched IaaS/PaaS models suitable for Fullstack development. |
-| Sun | 11/01 | Week summary and preparation for system analysis. |
+| Mon | 05/01 | Get to know and connect with the 5 team members. <br> + Define and break down clear Roles for the Backend and AI sectors to prepare for the overall architecture. |
+| Tue | 06/01 | Discuss and finalize the topic name: "EduTrust - Online Exam Proctoring Platform". |
+| Wed | 07/01 | Set up the Git monorepo structure and team workflow. |
+| Thu | 08/01 | Get familiar with Jira, assign roles to members. |
+| Fri | 09/01 | Register an AWS account, configure MFA security for the Root account. <br> + Understand the general concepts of IaaS and PaaS models for Fullstack development. <br> + Summarize the week and prepare for database research. |
 
-### Week 1 Achievements:
-* Finalized the project topic and created an initial development roadmap.
-* Established team communication and collaboration tools (Git/Jira).
-* Secured the personal AWS cloud environment.
+### Results achieved in week 1:
+* Finalized the topic and established a preliminary project plan.
+* Working environment (Git/Jira) is ready. Ready with a Ticket issuing process for each member to prevent duplicate features.
+* Completed security setup for personal AWS accounts.

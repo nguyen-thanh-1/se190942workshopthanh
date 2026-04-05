@@ -5,31 +5,30 @@ weight: 6
 chapter: false
 pre: " <b> 1.6. </b> "
 ---
+
 <!--
 {{% notice warning %}}
-⚠️ **Note:** The following information is for reference purposes only. Please **do not copy verbatim** for your own report, including this warning.
+⚠️ **Note:** The information below is for reference only, please **do not verbatim copy** for your report including this warning.  
 {{% /notice %}}
 -->
 
-### Week 6 Objectives:
-* Build Dashboard interfaces for Admin and Teacher roles.
-* Integrate Tailwind CSS v4 for a modern, minimal UI design.
-* Ensure Responsive compatibility across various devices.
+### Goals for week 6: (Application Phase)
+* Integrate APIs and test the process of saving violation images clipped from the web Camera directly to Amazon S3 buckets, ensuring clear fraud evidence recording.
+* Set up the Next.js Frontend project.
+* Build layouts and common components (Layouts, UI Components).
+* Build Dashboard interface for educational management.
 
-### Tasks to be carried out this week:
+### Tasks to be implemented this week:
 | Day | Date | Task |
 | --- | --- | --- |
-| Mon | 09/02 | Initialized Next.js 16 project with App Router and Lucide Icons. |
-| Tue | 10/02 | Designed common Layout components (Sidebar, Navbar, Breadcrumbs). |
-| Wed | 11/02 | Built class management and student list dashboard views. |
-| Thu | 12/02 | Developed the exam creation form with multiple-choice question features. |
-| Fri | 13/02 | Integrated Tailwind CSS v4 for core UI components (Buttons, Cards, Modals). |
-| Sat | 14/02 | Verified responsive layouts on Mobile and Tablet devices. |
-| Sun | 15/02 | Optimized page rendering performance using Server Components. |
+| Mon | 09/02 | Initialize Next.js 16 project, configure App Router and Lucide Icons. |
+| Tue | 10/02 | Design general Layout structure (Sidebar, Navbar, Breadcrumbs). |
+| Wed | 11/02 | Build the class management interface and student lists. |
+| Thu | 12/02 | Develop the exam creation form with multiple-choice questions feature. |
+| Fri | 13/02 | Integrate Tailwind CSS v4 for UI elements. <br> + Support Frontend with Layout authorization for distinct Admin and Teacher displays. <br> + Test Dashboard display on Mobile and Tablet. <br> + Optimize page render performance using Server Components. |
 
-### Week 6 Achievements:
-* Completed a professional Dashboard interface framework.
-* Smooth UI/UX with support for both Light and Dark modes.
-* Core management features are now fully functional on the frontend.
-* System displays correctly across all popular screen sizes.
-* Security policies (IAM) are more tightly permissioned.
+### Results achieved in week 6:
+* Completed professional Dashboard interface framework.
+* Smooth UI/UX interface, well-supported Dark Mode.
+* Basic management features can be manipulated directly on the screen.
+* Security policies (IAM) are authorized more strictly.

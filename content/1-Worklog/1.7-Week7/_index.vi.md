@@ -11,7 +11,8 @@ pre: " <b> 1.7. </b> "
 {{% /notice %}}
 -->
 
-### Mục tiêu tuần 7:
+### Mục tiêu tuần 7: (Giai đoạn Ứng dụng)
+* [Frontend Support & Roles] Bắt đầu tiến hành hỗ trợ cho team Frontend xây dựng UI, thiết kế logic nâng cấp và chia các Role rõ ràng cho hệ thống.
 * Thiết lập hạ tầng mạng VPC/EC2 cho hệ thống EduTrust.
 * Triển khai hạ tầng dưới dạng mã (Infrastructure as Code - IaC).
 * Cấu hình cân bằng tải (Load Balancer) và bảo mật SSL/HTTPS.
@@ -23,9 +24,7 @@ pre: " <b> 1.7. </b> "
 | 3 | 17/02 | Triển khai hạ tầng lên AWS bằng các kịch bản tự động (IaC). |
 | 4 | 18/02 | Cấu hình Application Load Balancer để điều phối lưu lượng. |
 | 5 | 19/02 | Tích hợp SSL (HTTPS) cho domain qua AWS Certificate Manager. |
-| 6 | 20/02 | Thực hiện Load Testing kiểm tra khả năng chịu tải của hạ tầng. |
-| 7 | 21/02 | Hoàn thiện tài liệu mô tả hạ tầng mạng (Security Groups). |
-| CN | 22/02 | Đánh giá hiệu năng và bảo mật mạng cơ bản. |
+| 6 | 20/02 | Thực hiện Load Testing kiểm tra khả năng chịu tải của hạ tầng. <br> + Hoàn thiện tài liệu mô tả hạ tầng mạng (Security Groups). <br> + Đánh giá hiệu năng và bảo mật mạng cơ bản. |
 
 ### Kết quả đạt được tuần 7:
 * Hạ tầng mạng AWS được thiết lập bài bản theo mô hình chuẩn của đồ án.

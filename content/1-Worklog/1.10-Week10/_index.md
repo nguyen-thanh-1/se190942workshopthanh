@@ -5,29 +5,31 @@ weight: 10
 chapter: false
 pre: " <b> 1.10. </b> "
 ---
+
 <!--
 {{% notice warning %}}
-⚠️ **Note:** The following information is for reference purposes only. Please **do not copy verbatim** for your own report, including this warning.
+⚠️ **Note:** The information below is for reference only, please **do not verbatim copy** for your report including this warning.  
 {{% /notice %}}
 -->
 
-### Week 10 Objectives:
-* Establish performance monitoring and real-time logging via CloudWatch.
-* Optimize infrastructure security and automated data backup processes.
-* Perform Stress Testing for the EduTrust system.
+### Goals for week 10: (Completion Phase)
+* Begin testing the entire system via AWS Amplify, reviewing late Frontend features and final APIs.
+* Set up performance monitoring system and real-time logs via CloudWatch.
+   * Add monitoring for Backend logs (FastAPI), making it easier to Debug and see how long AI Agents take to respond.
+* Optimize structural security and automatic data backups.
+* Test EduTrust system load bearing capacity (Stress Test).
+   * Simulate a large number of students taking exams and pushing snapshots continuously to S3 to discover real-world bandwidth limits.
 
-### Tasks to be carried out this week:
+### Tasks to be implemented this week:
 | Day | Date | Task |
 | --- | --- | --- |
-| Mon | 09/03 | Configured AWS CloudWatch to monitor logs from FastAPI and Next.js. |
-| Tue | 10/03 | Debugged and optimized response times for AI Agents. |
-| Wed | 11/03 | Set up automated Backup processes for MongoDB Atlas. |
-| Thu | 12/03 | Verified S3 Bucket security, ensuring access only via Presigned URLs. |
-| Fri | 13/03 | Conducted Stress Tests simulating multiple concurrent users during an exam. |
-| Sat | 14/03 | Finalized system operation and administration manuals. |
-| Sun | 15/03 | Verified Docker container stability in the AWS production environment. |
+| Mon | 09/03 | Configure AWS CloudWatch to monitor logs from FastAPI and Next.js. |
+| Tue | 10/03 | Debug and optimize response times of AI Agents. |
+| Wed | 11/03 | Setup auto Backup processes for MongoDB Atlas. |
+| Thu | 12/03 | Check S3 Bucket security, ensuring access strictly via Presigned URLs. |
+| Fri | 13/03 | Perform Stress Test simulating many students testing simultaneously. <br> + Gauge the AWS EC2 Load Balancer limit under heavy simultaneous API calls. <br> + Refine system operation and administration guides. <br> + Verify Docker containers stability on AWS environment. |
 
-### Week 10 Achievements:
-* System is closely monitored, ready for incident response.
-* Automated data backup processes ensure safety for student exam data.
-* Clearly identified system load limits to inform future scaling strategies.
+### Results achieved in week 10:
+* System is closely monitored, ready to respond to technical incidents. Continuous Logfire logs from Pydantic AI push smoothly to Cloudwatch.
+* Automated data backup guarantees student exam safety.
+* Understand system load limits to prepare Scaling plans.

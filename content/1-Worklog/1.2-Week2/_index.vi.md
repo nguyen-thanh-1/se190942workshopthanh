@@ -11,7 +11,8 @@ pre: " <b> 1.2. </b> "
 {{% /notice %}}
 -->
 
-### Mục tiêu tuần 2:
+### Mục tiêu tuần 2: (Giai đoạn Tìm hiểu)
+* [Team Leader] Đóng vai trò Leader chủ trì nhóm họp thống nhất các tính năng lớn, phân bổ khối lượng công việc và chốt lại cấu trúc cũng như các công nghệ sử dụng của dự án.
 * Làm quen các dịch vụ AWS Core cần thiết cho đồ án (IAM, EC2, S3).
 * Cấu hình AWS CLI để quản trị tài nguyên qua dòng lệnh.
 * Thử nghiệm lưu trữ và truy xuất tệp tin trên S3.
@@ -23,9 +24,7 @@ pre: " <b> 1.2. </b> "
 | 3 | 13/01 | Cài đặt AWS CLI và kiểm tra kết nối với lệnh `aws configure`. |
 | 4 | 14/01 | Khởi tạo EC2 Instance (Ubuntu), cấu hình Security Group cơ bản. |
 | 5 | 15/01 | Thử nghiệm SSH vào server và cài đặt môi trường Python cơ bản. |
-| 6 | 16/01 | Tạo S3 Bucket, thử nghiệm upload/download ảnh minh chứng vi phạm. |
-| 7 | 17/01 | Tìm hiểu về Elastic IP và các quy tắc bảo mật mạng trong VPC. |
-| CN | 18/01 | Brainstorming ý tưởng về giao diện người dùng cho EduTrust. |
+| 6 | 16/01 | Tạo S3 Bucket, thử nghiệm upload/download ảnh minh chứng vi phạm. <br> + Tìm hiểu về Elastic IP và các quy tắc bảo mật mạng trong VPC. <br> + Brainstorming ý tưởng về giao diện người dùng cho EduTrust. |
 
 ### Kết quả đạt được tuần 2:
 * Làm chủ các thao tác quản trị cơ bản trên AWS qua Console và CLI.

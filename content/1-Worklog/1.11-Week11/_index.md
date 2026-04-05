@@ -5,28 +5,29 @@ weight: 11
 chapter: false
 pre: " <b> 1.11. </b> "
 ---
+
 <!--
 {{% notice warning %}}
-⚠️ **Note:** The following information is for reference purposes only. Please **do not copy verbatim** for your own report, including this warning.
+⚠️ **Note:** The information below is for reference only, please **do not verbatim copy** for your report including this warning.  
 {{% /notice %}}
 -->
 
-### Week 11 Objectives:
-* Aggregate project outcomes and draft the detailed final report.
-* Review the entire development process and instructional manuals.
-* Prepare presentation content for the final project review.
+### Goals for week 11: (Completion Phase)
+* Add official Custom Domain for the project to ensure professionalism. Assist DevOps team in running and re-testing entire Backend infrastructure on AWS.
+* Gather project results and draft detailed reports.
+* Review all implementation processes and manuals.
+* Prepare presentation content for project results with the team.
 
-### Tasks to be carried out this week:
+### Tasks to be implemented this week:
 | Day | Date | Task |
 | --- | --- | --- |
-| Mon | 16/03 | Compiled technical evidence and drafted the project report. |
-| Tue-Wed | 17-18/03 | Refined technical content, architecture diagrams, and source code excerpts. |
-| Thu | 19/03 | Reviewed the 12-week Worklog for professional consistency. |
-| Fri | 20/03 | Packaged EduTrust source code and prepared Docker installation guides. |
-| Sat | 21/03 | Drafted presentation slides summarizing progress and results. |
-| Sun | 22/03 | Performed final check of the report file before mock submission. |
+| Mon | 16/03 | Gather technical proofs and write the project report. |
+| Tue | 17/03 | Edit contents, architectural diagrams, and source code in the report. |
+| Wed | 18/03 | Continue finalizing report documentation. |
+| Thu | 19/03 | Review Worklog records, ensuring professionalism. |
+| Fri | 20/03 | Package EduTrust source code and prepare Docker manuals. <br> + Assist configuring Custom Domain and testing it on AWS Amplify Frontend. <br> + Prepare presentation slides tracking progress and results. <br> + Final review of the entire report file before pseudo-submission. |
 
-### Week 11 Achievements:
-* Completed the project report draft with comprehensive professional content.
-* All source code and instructional documentation professionally packaged.
-* Ready for the final testing phase and official submission.
+### Results achieved in week 11:
+* Finalized project report draft encompassing full professional aspects.
+* Entire source code and manuals packaged professionally.
+* Ready for final test phases. HTTPS Domain flawlessly linked to the correct infrastructure.

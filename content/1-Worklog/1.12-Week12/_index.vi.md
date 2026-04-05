@@ -11,21 +11,22 @@ pre: " <b> 1.12. </b> "
 {{% /notice %}}
 -->
 
-### Mục tiêu tuần 12:
+### Mục tiêu tuần 12: (Giai đoạn Đạt được)
+* Tổng hợp toàn bộ kết quả đạt được qua 12 tuần (quản lý dự án, nâng cấp Backend Prompt, xử lý S3 Camera và support DevOps/Frontend) thành báo cáo hoàn chỉnh.
 * Thực hiện kiểm thử toàn diện (End-to-End Testing) để đảm bảo chất lượng đồ án.
+   * Rà soát chéo toàn bộ luồng: Học sinh làm bài -> Phân tích Client-side detect -> Đẩy hình minh chứng lên AWS S3 -> Role Giáo viên xem cập nhật.
 * Tối ưu hóa hiệu năng và trải nghiệm người dùng cuối trên môi trường AWS.
+   * Kiểm thử luồng Chatbot hoạt động mượt mà, trả kết quả luồng Streaming (như gõ chữ thật) để học sinh không có cảm giác chờ đợi phản hồi quá lâu.
 * Chính thức nộp báo cáo đồ án và kết thúc kỳ thực tập/môn học.
 
 ### Các công việc cần triển khai trong tuần này:
 | Thứ | Ngày | Công việc |
 | --- | --- | --- |
-| 2 | 23/03 | Chạy E2E Testing toàn bộ hệ thống phát hiện lỗi muộn. |
+| 2 | 23/03 | Chạy E2E Testing toàn bộ hệ thống phát hiện lỗi muộn.<br> + Chạy thử nghiệm thành công 1 vòng End-To-End: Nhận ảnh từ Client -> Lưu AWS -> Bot phân tích -> Báo cáo về Admin. |
 | 3 | 24/03 | Tối ưu hóa UI và tốc độ phản hồi của AI Chatbot. |
 | 4 | 25/03 | Kiểm tra tính nhất quán dữ liệu trên MongoDB và tối ưu Backend. |
 | 5 | 26/03 | Audit phân quyền hệ thống lần cuối và khảo sát người dùng thử. |
-| 6 | 27/03 | Đóng gói bản Demo EduTrust và hoàn thiện hồ sơ nộp bài. |
-| 7 | 28/03 | Chính thức nộp báo cáo đồ án thành công. |
-| CN | 29/03 | Tổng kết và dọn dẹp các tài nguyên Cloud không cần thiết. |
+| 6 | 27/03 | Đóng gói bản Demo EduTrust và hoàn thiện hồ sơ nộp bài. <br> + Chính thức nộp báo cáo đồ án thành công. <br> + Tổng kết và dọn dẹp các tài nguyên Cloud không cần thiết. |
 
 ### Kết quả đạt được tuần 12:
 * Hệ thống vận hành mượt mà, không còn lỗi nghiêm trọng.

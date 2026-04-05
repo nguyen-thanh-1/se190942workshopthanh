@@ -5,29 +5,30 @@ weight: 9
 chapter: false
 pre: " <b> 1.9. </b> "
 ---
+
 <!--
 {{% notice warning %}}
-⚠️ **Note:** The following information is for reference purposes only. Please **do not copy verbatim** for your own report, including this warning.
+⚠️ **Note:** The information below is for reference only, please **do not verbatim copy** for your report including this warning.  
 {{% /notice %}}
 -->
 
-### Week 9 Objectives:
-* Deploy Retrieval-Augmented Generation (RAG) for the AI system.
-* Build an intelligent Chatbot interface using Pydantic AI.
-* Optimize AI accuracy based on the project's knowledge base.
+### Goals for week 9: (Application Phase)
+* Finalize the Role authorization entirely. Coordinate attaching completed Backend features to the Frontend and complete the UI for Admin and Students.
+* Implement RAG (Retrieval-Augmented Generation) mechanism for the AI system.
+   * Gather lecture knowledge into Vectors, ensuring the Bot does not suffer from "hallucination" and strictly follows school materials.
+* Build intelligent AI Chatbot interface via Pydantic AI.
+* Optimize AI accuracy based on lecture knowledge base.
 
-### Tasks to be carried out this week:
+### Tasks to be implemented this week:
 | Day | Date | Task |
 | --- | --- | --- |
-| Mon | 02/03 | Researched RAG workflow using Pydantic AI framework. |
-| Tue | 03/03 | Connected S3 data to Vector Database for efficient retrieval. |
-| Wed | 04/03 | Integrated Multi-agent AI system for specialized responses. |
-| Thu | 05/03 | Developed Next.js Chatbot interface with Markdown support. |
-| Fri | 06/03 | Optimized Prompt Engineering to enhance response quality. |
-| Sat | 07/03 | Tested Chatbot features across both Web and Mobile views. |
-| Sun | 08/03 | Evaluated Chatbot performance with the development team. |
+| Mon | 02/03 | Research RAG processes for AI using Pydantic AI. |
+| Tue | 03/03 | Connect S3 data into Vector Database serving information retrieval. |
+| Wed | 04/03 | Integrate Multi-agent system to grant Chatbot high expertise. <br> + Channel chat connection API to Next.js via Continuous Streaming for typing effects. |
+| Thu | 05/03 | Build Chatbot interface with Next.js, supporting Markdown formats. <br> + Coordinate Backend stream responses so the typing flows smoothly without breaking UI. |
+| Fri | 06/03 | Optimize Prompt Engineering to enhance response quality. <br> + Test Chatbot features on both Web and Mobile interfaces. <br> + Evaluate Chatbot efficiency with the AI development team. |
 
-### Week 9 Achievements:
-* Intelligent Chatbot successfully answers questions based on lecture content.
-* Chatbot UI is user-friendly with fast asynchronous responses.
-* RAG process is stable, ensuring accurate information sourcing for AI.
+### Results achieved in week 9:
+* Chatbot is capable of answering questions based on lecture content.
+* Friendly Chatbot interface, fast response speeds thanks to asynchronous processing.
+* RAG process operates stably, guaranteeing accurate information for AI.

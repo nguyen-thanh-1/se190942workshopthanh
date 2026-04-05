@@ -11,7 +11,8 @@ pre: " <b> 1.3. </b> "
 {{% /notice %}}
 -->
 
-### Mục tiêu tuần 3:
+### Mục tiêu tuần 3: (Giai đoạn Thực hành)
+* Phụ trách xây dựng Backend chính, bắt đầu triển khai khung dữ liệu và chuẩn bị cho việc tích hợp AI để hệ thống xử lý mượt mà hơn.
 * Phân tích nghiệp vụ chi tiết cho nền tảng EduTrust.
 * Thiết kế sơ đồ cơ sở dữ liệu NoSQL (MongoDB) và luồng xử lý AI.
 * Hoàn thiện tài liệu SRS (Software Requirements Specification).
@@ -23,9 +24,7 @@ pre: " <b> 1.3. </b> "
 | 3 | 20/01 | Liệt kê danh sách tính năng (Features List) cho 3 vai trò: Admin, Teacher, Student. |
 | 4 | 21/01 | Viết tài liệu SRS mô tả chi tiết các màn hình và logic xử lý vi phạm. |
 | 5 | 22/01 | Tìm hiểu MongoDB Atlas và thiết kế Schema (collections: users, exams, violations). |
-| 6 | 23/01 | Vẽ sơ đồ kiến trúc hệ thống (Platform Architecture) kết hợp FastAPI và Next.js. |
-| 7 | 24/01 | Thiết kế luồng dữ liệu cho tính năng giám sát camera thời gian thực. |
-| CN | 25/01 | Review lại toàn bộ thiết kế cùng nhóm AI Engineer. |
+| 6 | 23/01 | Vẽ sơ đồ kiến trúc hệ thống (Platform Architecture) kết hợp FastAPI và Next.js. <br> + Thiết kế luồng dữ liệu cho tính năng giám sát camera thời gian thực. <br> + Review lại toàn bộ thiết kế cùng nhóm AI Engineer. |
 
 ### Kết quả đạt được tuần 3:
 * Hoàn thiện khung kiến trúc EduTrust hướng tới khả năng mở rộng trên AWS.
