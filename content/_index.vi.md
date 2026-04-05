@@ -23,7 +23,7 @@ chapter: false
 
 &emsp; **Vị trí thực tập:** FCJ Cloud Intern
 
-&emsp; **Thời gian thực tập:** Từ ngày 5/01/2026 đến ngày 18/4/2026
+&emsp; **Thời gian thực tập:** Từ ngày 05/01/2026 đến ngày 18/04/2026
 
 ![Ảnh đại diện của bạn](avatar.jpeg?width=246px&height=296.4px)
 

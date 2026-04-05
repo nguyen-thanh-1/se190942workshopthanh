@@ -6,9 +6,11 @@ chapter: false
 pre: " <b> 1. </b> "
 ---
 
+<!--
 {{% notice warning %}}
 ⚠️ **Note:** The information below is for reference purposes only. Please **do not copy verbatim** for your report, including this warning.
 {{% /notice %}}
+-->
 
 In this section, I will detail my project development process over **12 weeks**. Each week reflects key milestones from topic research, system analysis, and backend/frontend development to AWS infrastructure deployment.
 

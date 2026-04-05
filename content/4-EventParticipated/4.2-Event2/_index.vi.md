@@ -8,6 +8,16 @@ pre: " <b> 4.2. </b> "
 
 # Bài thu hoạch “Cloud Mastery Series #2: DevOps Fundamentals & Infrastructure”
 
+### Thông tin sự kiện
+
+- **Tên sự kiện:** Cloud Mastery Series #2: DevOps Fundamentals & Infrastructure  
+- **Thời gian:** 09:00 – 12:00, ngày 04 tháng 04 năm 2026  
+- **Địa điểm:** FPTU - Hall Academic A  
+
+### Mô tả
+
+Phiên làm việc này tập trung vào các nguyên lý DevOps, bao gồm Cơ sở hạ tầng dưới dạng Mã (IaC), hệ thống CI/CD (CI/CD pipelines), và duy trì tính ổn định của hệ thống trên nền tảng Đám mây.
+
 ### Mục tiêu sự kiện
 
 - Hệ thống hóa kiến thức về IaC: Cung cấp cái nhìn toàn diện về Infrastructure as Code và cách triển khai thực tế với Terraform trên AWS.  

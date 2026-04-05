@@ -6,24 +6,31 @@ chapter: false
 pre: " <b> 3. </b> "
 ---
 
-During my internship, I participated in two events. Each one was a memorable experience that provided new, interesting, and useful knowledge, along with gifts and wonderful moments.
+During my internship, I participated in 3 events. Each event was a memorable experience providing new, interesting, and useful knowledge, along with gifts and truly wonderful moments.
 
-### [Event 1](4.1-Event1/)  
-&emsp;**Event Name:** Cloud Mastery Series #1: Exploring Generative AI  
+### [Event 1](4.1-Event1/)
+&emsp;**Event Name:** Cloud Mastery Series #1: Exploring Generative AI
 
-&emsp;**Date & Time:** 09:00 – 12:00, March 14, 2026  
+&emsp;**Date & Time:** 09:00 – 12:00, March 14, 2026
 
-&emsp;**Location:** 26th Floor, Bitexco Financial Tower, 02 Hai Trieu Street, District 1, Ho Chi Minh City  
+&emsp;**Location:** 26th Floor, Bitexco Financial Tower, 02 Hai Trieu Street, District 1, Ho Chi Minh City
 
-&emsp;**Role:** Attendee  
+&emsp;**Role:** Attendee
 
----
+### [Event 2](4.2-Event2/)
+&emsp;**Event Name:** AWS First Cloud AI Journey Community Day 2026
 
-### [Event 2](4.2-Event2/)  
-&emsp;**Event Name:** Cloud Mastery Series #2: DevOps Fundamentals & Infrastructure  
+&emsp;**Date & Time:** 09:00 – 12:00, March 21, 2026
 
-&emsp;**Date & Time:** 09:00 – 12:00, April 04, 2026  
-
-&emsp;**Location:** FPTU - Hall Academic A  
+&emsp;**Location:** 26th Floor, Bitexco Financial Tower - 02 Hai Trieu Street, Ben Nghe Ward, District 1, Ho Chi Minh City
 
 &emsp;**Role:** Attendee  
+
+### [Event 3](4.3-Event3/)
+&emsp;**Event Name:** Cloud Mastery Series #2: DevOps Fundamentals & Infrastructure
+
+&emsp;**Date & Time:** 09:00 – 12:00, April 04, 2026
+
+&emsp;**Location:** FPTU - Hall Academic A
+
+&emsp;**Role:** Attendee 

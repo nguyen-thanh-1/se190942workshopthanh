@@ -6,9 +6,11 @@ chapter: false
 pre: " <b> 1. </b> "
 ---
 
+<!--
 {{% notice warning %}}
 ⚠️ **Lưu ý:** Các thông tin dưới đây chỉ nhằm mục đích tham khảo, vui lòng **không sao chép nguyên văn** cho bài báo cáo của bạn kể cả warning này.
 {{% /notice %}}
+-->
 
 Trong phần này, tôi sẽ ghi lại chi tiết quá trình thực hiện đồ án của mình trong vòng **12 tuần**. Mỗi tuần sẽ phản ánh các cột mốc quan trọng từ việc nghiên cứu đề tài, phân tích hệ thống, phát triển backend/frontend đến việc triển khai hạ tầng trên AWS.
 

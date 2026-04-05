@@ -10,6 +10,17 @@ pre: " <b> 4.1. </b> "
 
 ![Cloud Mastery 2026 #1](event1-banner.png)
 
+### Thông tin sự kiện
+
+- **Tên sự kiện:** Cloud Mastery Series #1: Exploring Generative AI  
+- **Thời gian:** 09:00 – 12:00, ngày 14 tháng 03 năm 2026  
+- **Địa điểm:** Tầng 26, Tòa nhà Bitexco Financial Tower, số 02 Hải Triều, Quận 1, TP. Hồ Chí Minh  
+- **Vai trò:** Người tham dự  
+
+### Mô tả
+
+Buổi workshop này được thiết kế dành cho cộng đồng sinh viên và tập trung vào các ứng dụng của Trí tuệ nhân tạo tạo sinh (Generative AI). Phiên làm việc bao gồm việc tích hợp các mô hình AI vào các ứng dụng thực tế và tối ưu hóa quy trình phát triển phần mềm.
+
 ### Mục tiêu sự kiện
 
 - Khám phá các ứng dụng thực tế của Trí tuệ nhân tạo tạo sinh (GenAI) trong phát triển dự án.  
