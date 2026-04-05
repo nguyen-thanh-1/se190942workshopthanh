@@ -20,13 +20,13 @@ pre: " <b> 1.4. </b> "
 * Connect and perform basic CRUD operations on MongoDB Atlas.
 
 ### Tasks to be implemented this week:
-| Day | Date | Task |
-| --- | --- | --- |
-| Mon | 26/01 | Initialize FastAPI project, config Monorepo structure. <br> + Set up standard directory structure, prepare API Router for the exam workflow. |
-| Tue | 27/01 | Connect MongoDB Atlas using Motor (async driver) and verify connection. |
-| Wed | 28/01 | Build Register/Login logic, integrate JWT for RBAC authorization. <br> + Configure JWT middleware to block unauthorized access to Camera/Exam resources. |
-| Thu | 29/01 | Write CRUD APIs for managing class and exam information. |
-| Fri | 30/01 | Test API security using Swagger UI and ReDoc. <br> + Optimize error handling (Exception Handlers) in FastAPI. <br> + Summarize the first month and plan AI research. |
+| Day | Task | Start Date | End Date | References |
+| --- | --- | --- | --- | --- |
+| Mon | Initialize FastAPI project, config Monorepo structure. <br> + Set up standard directory structure, prepare API Router for the exam workflow. | 26/01 | 26/01 | - |
+| Tue | Connect MongoDB Atlas using Motor (async driver) and verify connection. | 27/01 | 27/01 | - |
+| Wed | Build Register/Login logic, integrate JWT for RBAC authorization. <br> + Configure JWT middleware to block unauthorized access to Camera/Exam resources. | 28/01 | 28/01 | - |
+| Thu | Write CRUD APIs for managing class and exam information. | 29/01 | 29/01 | - |
+| Fri | Test API security using Swagger UI and ReDoc. <br> + Optimize error handling (Exception Handlers) in FastAPI. <br> + Summarize the first month and plan AI research. | 30/01 | 30/01 | - |
 
 ### Results achieved in week 4:
 * Basic Backend system is running stably with FastAPI.

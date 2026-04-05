@@ -19,13 +19,13 @@ pre: " <b> 1.9. </b> "
 * Tối ưu hóa độ chính xác của AI dựa trên cơ sở tri thức bài giảng.
 
 ### Các công việc cần triển khai trong tuần này:
-| Thứ | Ngày | Công việc |
-| --- | --- | --- |
-| 2 | 02/03 | Nghiên cứu quy trình RAG cho trí tuệ nhân tạo dùng Pydantic AI. |
-| 3 | 03/03 | Kết nối dữ liệu S3 vào Vector Database phục vụ truy xuất thông tin. |
-| 4 | 04/03 | Tích hợp hệ thống Multi-agent để Chatbot có tính chuyên môn cao.<br> + Dồn API kết nối chat lên Next.js qua dạng luồng liên tục để phản hồi gõ chữ. |
-| 5 | 05/03 | Xây dựng giao diện Chatbot bằng Next.js, hỗ trợ định dạng Markdown.<br> + Phối hợp ráp nối luồng Backend để chữ trả về theo Stream gõ mượt mà không vỡ UI. |
-| 6 | 06/03 | Tối ưu hóa Prompt Engineering để nâng cao chất lượng phản hồi. <br> + Kiểm thử tính năng Chatbot trên cả giao diện Web và Mobile. <br> + Đánh giá hiệu quả Chatbot cùng đội ngũ phát triển AI. |
+| Thứ | Công việc | Ngày bắt đầu | Ngày kết thúc | Tài liệu tham khảo |
+| --- | --- | --- | --- | --- |
+| 2 | Nghiên cứu quy trình RAG cho trí tuệ nhân tạo dùng Pydantic AI. | 02/03 | 02/03 | - |
+| 3 | Kết nối dữ liệu S3 vào Vector Database phục vụ truy xuất thông tin. | 03/03 | 03/03 | - |
+| 4 | Tích hợp hệ thống Multi-agent để Chatbot có tính chuyên môn cao.<br> + Dồn API kết nối chat lên Next.js qua dạng luồng liên tục để phản hồi gõ chữ. | 04/03 | 04/03 | - |
+| 5 | Xây dựng giao diện Chatbot bằng Next.js, hỗ trợ định dạng Markdown.<br> + Phối hợp ráp nối luồng Backend để chữ trả về theo Stream gõ mượt mà không vỡ UI. | 05/03 | 05/03 | - |
+| 6 | Tối ưu hóa Prompt Engineering để nâng cao chất lượng phản hồi. <br> + Kiểm thử tính năng Chatbot trên cả giao diện Web và Mobile. <br> + Đánh giá hiệu quả Chatbot cùng đội ngũ phát triển AI. | 06/03 | 06/03 | - |
 
 ### Kết quả đạt được tuần 9:
 * Chatbot đã có khả năng trả lời các câu hỏi dựa trên nội dung bài giảng.

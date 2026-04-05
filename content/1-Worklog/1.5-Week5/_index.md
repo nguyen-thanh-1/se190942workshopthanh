@@ -20,13 +20,13 @@ pre: " <b> 1.5. </b> "
 * Perform basic object detection tests (phones, faces).
 
 ### Tasks to be implemented this week:
-| Day | Date | Task |
-| --- | --- | --- |
-| Mon | 02/02 | Learn about YOLOv8/v10 models for fraud detection problem. |
-| Tue | 03/02 | Set up Agentic Workflow for chatbot using Pydantic AI. <br> + Design deep Prompts for each task to ensure Pydantic AI strictly follows rules. |
-| Wed | 04/03 | Test detecting multiple faces in a single camera frame. |
-| Thu | 05/02 | Design logic flow: Detect violation -> Capture evidence image -> Save to S3. |
-| Fri | 06/02 | Research video streaming approaches from Client to Backend. <br> + Optimize prompts for AI Agent to classify student queries. <br> + Evaluate AI latency when processing real-time. |
+| Day | Task | Start Date | End Date | References |
+| --- | --- | --- | --- | --- |
+| Mon | Learn about YOLOv8/v10 models for fraud detection problem. | 02/02 | 02/02 | - |
+| Tue | Set up Agentic Workflow for chatbot using Pydantic AI. <br> + Design deep Prompts for each task to ensure Pydantic AI strictly follows rules. | 03/02 | 03/02 | - |
+| Wed | Test detecting multiple faces in a single camera frame. | 04/03 | 04/03 | - |
+| Thu | Design logic flow: Detect violation -> Capture evidence image -> Save to S3. | 05/02 | 05/02 | - |
+| Fri | Research video streaming approaches from Client to Backend. <br> + Optimize prompts for AI Agent to classify student queries. <br> + Evaluate AI latency when processing real-time. | 06/02 | 06/02 | - |
 
 ### Results achieved in week 5:
 * Identified a suitable YOLO model for exam monitoring.

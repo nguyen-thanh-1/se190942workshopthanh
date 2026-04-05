@@ -20,13 +20,13 @@ pre: " <b> 1.12. </b> "
 * Chính thức nộp báo cáo đồ án và kết thúc kỳ thực tập/môn học.
 
 ### Các công việc cần triển khai trong tuần này:
-| Thứ | Ngày | Công việc |
-| --- | --- | --- |
-| 2 | 23/03 | Chạy E2E Testing toàn bộ hệ thống phát hiện lỗi muộn.<br> + Chạy thử nghiệm thành công 1 vòng End-To-End: Nhận ảnh từ Client -> Lưu AWS -> Bot phân tích -> Báo cáo về Admin. |
-| 3 | 24/03 | Tối ưu hóa UI và tốc độ phản hồi của AI Chatbot. |
-| 4 | 25/03 | Kiểm tra tính nhất quán dữ liệu trên MongoDB và tối ưu Backend. |
-| 5 | 26/03 | Audit phân quyền hệ thống lần cuối và khảo sát người dùng thử. |
-| 6 | 27/03 | Đóng gói bản Demo EduTrust và hoàn thiện hồ sơ nộp bài. <br> + Chính thức nộp báo cáo đồ án thành công. <br> + Tổng kết và dọn dẹp các tài nguyên Cloud không cần thiết. |
+| Thứ | Công việc | Ngày bắt đầu | Ngày kết thúc | Tài liệu tham khảo |
+| --- | --- | --- | --- | --- |
+| 2 | Chạy E2E Testing toàn bộ hệ thống phát hiện lỗi muộn.<br> + Chạy thử nghiệm thành công 1 vòng End-To-End: Nhận ảnh từ Client -> Lưu AWS -> Bot phân tích -> Báo cáo về Admin. | 23/03 | 23/03 | - |
+| 3 | Tối ưu hóa UI và tốc độ phản hồi của AI Chatbot. | 24/03 | 24/03 | - |
+| 4 | Kiểm tra tính nhất quán dữ liệu trên MongoDB và tối ưu Backend. | 25/03 | 25/03 | - |
+| 5 | Audit phân quyền hệ thống lần cuối và khảo sát người dùng thử. | 26/03 | 26/03 | - |
+| 6 | Đóng gói bản Demo EduTrust và hoàn thiện hồ sơ nộp bài. <br> + Chính thức nộp báo cáo đồ án thành công. <br> + Tổng kết và dọn dẹp các tài nguyên Cloud không cần thiết. | 27/03 | 27/03 | - |
 
 ### Kết quả đạt được tuần 12:
 * Hệ thống vận hành mượt mà, không còn lỗi nghiêm trọng.

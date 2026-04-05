@@ -21,13 +21,13 @@ pre: " <b> 1.10. </b> "
    * Simulate a large number of students taking exams and pushing snapshots continuously to S3 to discover real-world bandwidth limits.
 
 ### Tasks to be implemented this week:
-| Day | Date | Task |
-| --- | --- | --- |
-| Mon | 09/03 | Configure AWS CloudWatch to monitor logs from FastAPI and Next.js. |
-| Tue | 10/03 | Debug and optimize response times of AI Agents. |
-| Wed | 11/03 | Setup auto Backup processes for MongoDB Atlas. |
-| Thu | 12/03 | Check S3 Bucket security, ensuring access strictly via Presigned URLs. |
-| Fri | 13/03 | Perform Stress Test simulating many students testing simultaneously. <br> + Gauge the AWS EC2 Load Balancer limit under heavy simultaneous API calls. <br> + Refine system operation and administration guides. <br> + Verify Docker containers stability on AWS environment. |
+| Day | Task | Start Date | End Date | References |
+| --- | --- | --- | --- | --- |
+| Mon | Configure AWS CloudWatch to monitor logs from FastAPI and Next.js. | 09/03 | 09/03 | - |
+| Tue | Debug and optimize response times of AI Agents. | 10/03 | 10/03 | - |
+| Wed | Setup auto Backup processes for MongoDB Atlas. | 11/03 | 11/03 | - |
+| Thu | Check S3 Bucket security, ensuring access strictly via Presigned URLs. | 12/03 | 12/03 | - |
+| Fri | Perform Stress Test simulating many students testing simultaneously. <br> + Gauge the AWS EC2 Load Balancer limit under heavy simultaneous API calls. <br> + Refine system operation and administration guides. <br> + Verify Docker containers stability on AWS environment. | 13/03 | 13/03 | - |
 
 ### Results achieved in week 10:
 * System is closely monitored, ready to respond to technical incidents. Continuous Logfire logs from Pydantic AI push smoothly to Cloudwatch.

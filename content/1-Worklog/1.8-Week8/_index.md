@@ -20,13 +20,13 @@ pre: " <b> 1.8. </b> "
 * Optimize data retrieval performance from MongoDB.
 
 ### Tasks to be implemented this week:
-| Day | Date | Task |
-| --- | --- | --- |
-| Mon | 23/02 | Develop the feature for teachers to view the list of participating students. <br> + Connect S3 fraud report data directly to the visual dashboard. |
-| Tue | 24/02 | Program logic for exporting exam results to Excel/CSV format. |
-| Wed | 25/02 | Integrate Amazon SES to automatically email results to students. |
-| Thu | 26/02 | Setup Redis to cache search results and class lists. |
-| Fri | 27/02 | Fix Vietnamese formatting bugs when exporting reports from MongoDB. <br> + Test real email flow with Amazon SES account. <br> + Review reporting module source code with Backend team. |
+| Day | Task | Start Date | End Date | References |
+| --- | --- | --- | --- | --- |
+| Mon | Develop the feature for teachers to view the list of participating students. <br> + Connect S3 fraud report data directly to the visual dashboard. | 23/02 | 23/02 | - |
+| Tue | Program logic for exporting exam results to Excel/CSV format. | 24/02 | 24/02 | - |
+| Wed | Integrate Amazon SES to automatically email results to students. | 25/02 | 25/02 | - |
+| Thu | Setup Redis to cache search results and class lists. | 26/02 | 26/02 | - |
+| Fri | Fix Vietnamese formatting bugs when exporting reports from MongoDB. <br> + Test real email flow with Amazon SES account. <br> + Review reporting module source code with Backend team. | 27/02 | 27/02 | - |
 
 ### Results achieved in week 8:
 * System can manage and export professional report data. Completed full export flows with FrontEnd visualizing fraud evidence.

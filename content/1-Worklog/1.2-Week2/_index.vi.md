@@ -18,13 +18,13 @@ pre: " <b> 1.2. </b> "
 * Thử nghiệm lưu trữ và truy xuất tệp tin trên S3.
 
 ### Các công việc cần triển khai trong tuần này:
-| Thứ | Ngày | Công việc |
-| --- | --- | --- |
-| 2 | 12/01 | Hoàn tất đăng ký AWS Free Tier, tạo IAM User và Access Key. |
-| 3 | 13/01 | Cài đặt AWS CLI và kiểm tra kết nối với lệnh `aws configure`. |
-| 4 | 14/01 | Khởi tạo EC2 Instance (Ubuntu), cấu hình Security Group cơ bản. |
-| 5 | 15/01 | Thử nghiệm SSH vào server và cài đặt môi trường Python cơ bản. |
-| 6 | 16/01 | Tạo S3 Bucket, thử nghiệm upload/download ảnh minh chứng vi phạm. <br> + Tìm hiểu về Elastic IP và các quy tắc bảo mật mạng trong VPC. <br> + Brainstorming ý tưởng về giao diện người dùng cho EduTrust. |
+| Thứ | Công việc | Ngày bắt đầu | Ngày kết thúc | Tài liệu tham khảo |
+| --- | --- | --- | --- | --- |
+| 2 | Hoàn tất đăng ký AWS Free Tier, tạo IAM User và Access Key. | 12/01 | 12/01 | - |
+| 3 | Cài đặt AWS CLI và kiểm tra kết nối với lệnh `aws configure`. | 13/01 | 13/01 | - |
+| 4 | Khởi tạo EC2 Instance (Ubuntu), cấu hình Security Group cơ bản. | 14/01 | 14/01 | - |
+| 5 | Thử nghiệm SSH vào server và cài đặt môi trường Python cơ bản. | 15/01 | 15/01 | - |
+| 6 | Tạo S3 Bucket, thử nghiệm upload/download ảnh minh chứng vi phạm. <br> + Tìm hiểu về Elastic IP và các quy tắc bảo mật mạng trong VPC. <br> + Brainstorming ý tưởng về giao diện người dùng cho EduTrust. | 16/01 | 16/01 | - |
 
 ### Kết quả đạt được tuần 2:
 * Làm chủ các thao tác quản trị cơ bản trên AWS qua Console và CLI.

@@ -18,13 +18,13 @@ pre: " <b> 1.7. </b> "
 * Cấu hình cân bằng tải (Load Balancer) và bảo mật SSL/HTTPS.
 
 ### Các công việc cần triển khai trong tuần này:
-| Thứ | Ngày | Công việc |
-| --- | --- | --- |
-| 2 | 16/02 | Khởi tạo VPC, Subnet và EC2 cho Backend EduTrust. |
-| 3 | 17/02 | Triển khai hạ tầng lên AWS bằng các kịch bản tự động (IaC). |
-| 4 | 18/02 | Cấu hình Application Load Balancer để điều phối lưu lượng. |
-| 5 | 19/02 | Tích hợp SSL (HTTPS) cho domain qua AWS Certificate Manager. |
-| 6 | 20/02 | Thực hiện Load Testing kiểm tra khả năng chịu tải của hạ tầng. <br> + Hoàn thiện tài liệu mô tả hạ tầng mạng (Security Groups). <br> + Đánh giá hiệu năng và bảo mật mạng cơ bản. |
+| Thứ | Công việc | Ngày bắt đầu | Ngày kết thúc | Tài liệu tham khảo |
+| --- | --- | --- | --- | --- |
+| 2 | Khởi tạo VPC, Subnet và EC2 cho Backend EduTrust. | 16/02 | 16/02 | - |
+| 3 | Triển khai hạ tầng lên AWS bằng các kịch bản tự động (IaC). | 17/02 | 17/02 | - |
+| 4 | Cấu hình Application Load Balancer để điều phối lưu lượng. | 18/02 | 18/02 | - |
+| 5 | Tích hợp SSL (HTTPS) cho domain qua AWS Certificate Manager. | 19/02 | 19/02 | - |
+| 6 | Thực hiện Load Testing kiểm tra khả năng chịu tải của hạ tầng. <br> + Hoàn thiện tài liệu mô tả hạ tầng mạng (Security Groups). <br> + Đánh giá hiệu năng và bảo mật mạng cơ bản. | 20/02 | 20/02 | - |
 
 ### Kết quả đạt được tuần 7:
 * Hạ tầng mạng AWS được thiết lập bài bản theo mô hình chuẩn của đồ án.

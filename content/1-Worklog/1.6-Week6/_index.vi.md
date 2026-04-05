@@ -18,13 +18,13 @@ pre: " <b> 1.6. </b> "
 * Đảm bảo tính phản hồi (Responsive) trên nhiều thiết bị.
 
 ### Các công việc cần triển khai trong tuần này:
-| Thứ | Ngày | Công việc |
-| --- | --- | --- |
-| 2 | 09/02 | Khởi tạo dự án Next.js 16, cấu hình App Router và Lucide Icons. |
-| 3 | 10/02 | Thiết kế bố cục Layout chung (Sidebar, Navbar, Breadcrumbs). |
-| 4 | 11/02 | Xây dựng màn hình quản lý lớp học và danh sách sinh viên. |
-| 5 | 12/02 | Phát triển form tạo đề thi với tính năng thêm câu hỏi trắc nghiệm. |
-| 6 | 13/02 | Tích hợp Tailwind CSS v4 cho các thành phần UI (Buttons, Cards, Modals).<br> + Hỗ trợ Frontend phân quyền Layout cho Admin, Teacher hiển thị khác biệt. <br> + Kiểm tra hiển thị Dashboard trên Mobile và Tablet. <br> + Tối ưu hóa hiệu năng render trang bằng Server Components. |
+| Thứ | Công việc | Ngày bắt đầu | Ngày kết thúc | Tài liệu tham khảo |
+| --- | --- | --- | --- | --- |
+| 2 | Khởi tạo dự án Next.js 16, cấu hình App Router và Lucide Icons. | 09/02 | 09/02 | - |
+| 3 | Thiết kế bố cục Layout chung (Sidebar, Navbar, Breadcrumbs). | 10/02 | 10/02 | - |
+| 4 | Xây dựng màn hình quản lý lớp học và danh sách sinh viên. | 11/02 | 11/02 | - |
+| 5 | Phát triển form tạo đề thi với tính năng thêm câu hỏi trắc nghiệm. | 12/02 | 12/02 | - |
+| 6 | Tích hợp Tailwind CSS v4 cho các thành phần UI (Buttons, Cards, Modals).<br> + Hỗ trợ Frontend phân quyền Layout cho Admin, Teacher hiển thị khác biệt. <br> + Kiểm tra hiển thị Dashboard trên Mobile và Tablet. <br> + Tối ưu hóa hiệu năng render trang bằng Server Components. | 13/02 | 13/02 | - |
 
 ### Kết quả đạt được tuần 6:
 * Hoàn thiện khung giao diện Dashboard chuyên nghiệp.

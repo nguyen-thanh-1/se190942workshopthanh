@@ -19,13 +19,13 @@ pre: " <b> 1.7. </b> "
 * Configure Load Balancer and SSL/HTTPS security.
 
 ### Tasks to be implemented this week:
-| Day | Date | Task |
-| --- | --- | --- |
-| Mon | 16/02 | Initialize VPC, Subnet and EC2 for EduTrust Backend. |
-| Tue | 17/02 | Deploy infrastructure to AWS using automation scripts (IaC). |
-| Wed | 18/02 | Configure Application Load Balancer to distribute traffic. |
-| Thu | 19/02 | Integrate SSL (HTTPS) for domain via AWS Certificate Manager. |
-| Fri | 20/02 | Perform Load Testing to verify infrastructure load capacity. <br> + Complete network infrastructure documentation (Security Groups). <br> + Evaluate basic network performance and security. |
+| Day | Task | Start Date | End Date | References |
+| --- | --- | --- | --- | --- |
+| Mon | Initialize VPC, Subnet and EC2 for EduTrust Backend. | 16/02 | 16/02 | - |
+| Tue | Deploy infrastructure to AWS using automation scripts (IaC). | 17/02 | 17/02 | - |
+| Wed | Configure Application Load Balancer to distribute traffic. | 18/02 | 18/02 | - |
+| Thu | Integrate SSL (HTTPS) for domain via AWS Certificate Manager. | 19/02 | 19/02 | - |
+| Fri | Perform Load Testing to verify infrastructure load capacity. <br> + Complete network infrastructure documentation (Security Groups). <br> + Evaluate basic network performance and security. | 20/02 | 20/02 | - |
 
 ### Results achieved in week 7:
 * AWS network infrastructure is methodically set up following project standards.

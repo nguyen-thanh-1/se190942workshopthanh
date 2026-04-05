@@ -21,13 +21,13 @@ pre: " <b> 1.12. </b> "
 * Officially submit the project report and conclude the internship/course.
 
 ### Tasks to be implemented this week:
-| Day | Date | Task |
-| --- | --- | --- |
-| Mon | 23/03 | Run comprehensive E2E Testing to detect late bugs. <br> + Successfully perform 1 End-To-End loop: Retrieve images from Client -> Save to AWS -> AI analysis -> Report to Admin. |
-| Tue | 24/03 | Optimize UI and response times for AI Chatbot. |
-| Wed | 25/03 | Verify logic and Backend efficiency. |
-| Thu | 26/03 | Final audit of system authorization and conduct beta-user surveys. |
-| Fri | 27/03 | Package EduTrust Demo and finalize submission files. <br> + Officially submit the project report with success. <br> + Wrap up and clean up unnecessary Cloud resources. |
+| Day | Task | Start Date | End Date | References |
+| --- | --- | --- | --- | --- |
+| Mon | Run comprehensive E2E Testing to detect late bugs. <br> + Successfully perform 1 End-To-End loop: Retrieve images from Client -> Save to AWS -> AI analysis -> Report to Admin. | 23/03 | 23/03 | - |
+| Tue | Optimize UI and response times for AI Chatbot. | 24/03 | 24/03 | - |
+| Wed | Verify logic and Backend efficiency. | 25/03 | 25/03 | - |
+| Thu | Final audit of system authorization and conduct beta-user surveys. | 26/03 | 26/03 | - |
+| Fri | Package EduTrust Demo and finalize submission files. <br> + Officially submit the project report with success. <br> + Wrap up and clean up unnecessary Cloud resources. | 27/03 | 27/03 | - |
 
 ### Results achieved in week 12:
 * System runs fluidly, completely devoid of critical bugs.

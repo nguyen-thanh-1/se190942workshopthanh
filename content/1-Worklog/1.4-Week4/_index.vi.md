@@ -19,13 +19,13 @@ pre: " <b> 1.4. </b> "
 * Kết nối và thực hiện các thao tác CRUD cơ bản trên MongoDB Atlas.
 
 ### Các công việc cần triển khai trong tuần này:
-| Thứ | Ngày | Công việc |
-| --- | --- | --- |
-| 2 | 26/01 | Khởi tạo dự án FastAPI, cấu hình cấu trúc thư mục Monorepo.<br> + Thiết lập cấu trúc thư mục tiêu chuẩn, dựng sẵn API Router mở đầu cho luồng chức năng thi cử. |
-| 3 | 27/01 | Kết nối MongoDB Atlas bằng Motor (async driver) và kiểm tra kết nối. |
-| 4 | 28/01 | Xây dựng logic Register/Login, tích hợp JWT cho phân quyền RBAC.<br> + Cấu hình Middleware quản lý JWT token để chặn đứng truy cập trái phép vào tài nguyên Camera/Đề thi. |
-| 5 | 29/01 | Viết API CRUD cho quản lý thông tin lớp học và đề thi. |
-| 6 | 30/01 | Kiểm thử bảo mật API bằng Swagger UI và ReDoc. <br> + Tối ưu hóa xử lý lỗi (Exception Handlers) trong FastAPI. <br> + Tổng kết tháng đầu tiên và lập kế hoạch nghiên cứu AI. |
+| Thứ | Công việc | Ngày bắt đầu | Ngày kết thúc | Tài liệu tham khảo |
+| --- | --- | --- | --- | --- |
+| 2 | Khởi tạo dự án FastAPI, cấu hình cấu trúc thư mục Monorepo.<br> + Thiết lập cấu trúc thư mục tiêu chuẩn, dựng sẵn API Router mở đầu cho luồng chức năng thi cử. | 26/01 | 26/01 | - |
+| 3 | Kết nối MongoDB Atlas bằng Motor (async driver) và kiểm tra kết nối. | 27/01 | 27/01 | - |
+| 4 | Xây dựng logic Register/Login, tích hợp JWT cho phân quyền RBAC.<br> + Cấu hình Middleware quản lý JWT token để chặn đứng truy cập trái phép vào tài nguyên Camera/Đề thi. | 28/01 | 28/01 | - |
+| 5 | Viết API CRUD cho quản lý thông tin lớp học và đề thi. | 29/01 | 29/01 | - |
+| 6 | Kiểm thử bảo mật API bằng Swagger UI và ReDoc. <br> + Tối ưu hóa xử lý lỗi (Exception Handlers) trong FastAPI. <br> + Tổng kết tháng đầu tiên và lập kế hoạch nghiên cứu AI. | 30/01 | 30/01 | - |
 
 ### Kết quả đạt được tuần 4:
 * Hệ thống Backend cơ bản đã hoạt động ổn định với FastAPI.

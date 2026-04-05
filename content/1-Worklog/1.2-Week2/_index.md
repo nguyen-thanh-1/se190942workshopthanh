@@ -19,13 +19,13 @@ pre: " <b> 1.2. </b> "
 * Test storing and retrieving files on S3.
 
 ### Tasks to be implemented this week:
-| Day | Date | Task |
-| --- | --- | --- |
-| Mon | 12/01 | Complete AWS Free Tier registration, create IAM User and Access Key. |
-| Tue | 13/01 | Install AWS CLI and test connection using the `aws configure` command. |
-| Wed | 14/01 | Initialize an EC2 Instance (Ubuntu), configure basic Security Groups. |
-| Thu | 15/01 | Test SSH into the server and install the basic Python environment. |
-| Fri | 16/01 | Create an S3 Bucket, test uploading/downloading violation evidence images. <br> + Learn about Elastic IPs and basic network security rules in VPC. <br> + Brainstorm ideas for the EduTrust user interface. |
+| Day | Task | Start Date | End Date | References |
+| --- | --- | --- | --- | --- |
+| Mon | Complete AWS Free Tier registration, create IAM User and Access Key. | 12/01 | 12/01 | - |
+| Tue | Install AWS CLI and test connection using the `aws configure` command. | 13/01 | 13/01 | - |
+| Wed | Initialize an EC2 Instance (Ubuntu), configure basic Security Groups. | 14/01 | 14/01 | - |
+| Thu | Test SSH into the server and install the basic Python environment. | 15/01 | 15/01 | - |
+| Fri | Create an S3 Bucket, test uploading/downloading violation evidence images. <br> + Learn about Elastic IPs and basic network security rules in VPC. <br> + Brainstorm ideas for the EduTrust user interface. | 16/01 | 16/01 | - |
 
 ### Results achieved in week 2:
 * Mastered basic management operations on AWS via Console and CLI.

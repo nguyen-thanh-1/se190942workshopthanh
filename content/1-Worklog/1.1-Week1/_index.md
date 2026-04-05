@@ -22,13 +22,13 @@ pre: " <b> 1.1. </b> "
    * Practice strict IAM permissions (restricted Access Keys) to ensure the Backend safely interacts with the S3 Bucket later.
 
 ### Tasks to be implemented this week:
-| Day | Date | Task |
-| --- | --- | --- |
-| Mon | 05/01 | Get to know and connect with the 5 team members. <br> + Define and break down clear Roles for the Backend and AI sectors to prepare for the overall architecture. |
-| Tue | 06/01 | Discuss and finalize the topic name: "EduTrust - Online Exam Proctoring Platform". |
-| Wed | 07/01 | Set up the Git monorepo structure and team workflow. |
-| Thu | 08/01 | Get familiar with Jira, assign roles to members. |
-| Fri | 09/01 | Register an AWS account, configure MFA security for the Root account. <br> + Understand the general concepts of IaaS and PaaS models for Fullstack development. <br> + Summarize the week and prepare for database research. |
+| Day | Task | Start Date | End Date | References |
+| --- | --- | --- | --- | --- |
+| Mon | Get to know and connect with the 5 team members. <br> + Define and break down clear Roles for the Backend and AI sectors to prepare for the overall architecture. | 05/01 | 05/01 | - |
+| Tue | Discuss and finalize the topic name: "EduTrust - Online Exam Proctoring Platform". | 06/01 | 06/01 | - |
+| Wed | Set up the Git monorepo structure and team workflow. | 07/01 | 07/01 | - |
+| Thu | Get familiar with Jira, assign roles to members. | 08/01 | 08/01 | - |
+| Fri | Register an AWS account, configure MFA security for the Root account. <br> + Understand the general concepts of IaaS and PaaS models for Fullstack development. <br> + Summarize the week and prepare for database research. | 09/01 | 09/01 | - |
 
 ### Results achieved in week 1:
 * Finalized the topic and established a preliminary project plan.

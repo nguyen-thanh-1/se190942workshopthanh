@@ -19,13 +19,13 @@ pre: " <b> 1.11. </b> "
 * Prepare presentation content for project results with the team.
 
 ### Tasks to be implemented this week:
-| Day | Date | Task |
-| --- | --- | --- |
-| Mon | 16/03 | Gather technical proofs and write the project report. |
-| Tue | 17/03 | Edit contents, architectural diagrams, and source code in the report. |
-| Wed | 18/03 | Continue finalizing report documentation. |
-| Thu | 19/03 | Review Worklog records, ensuring professionalism. |
-| Fri | 20/03 | Package EduTrust source code and prepare Docker manuals. <br> + Assist configuring Custom Domain and testing it on AWS Amplify Frontend. <br> + Prepare presentation slides tracking progress and results. <br> + Final review of the entire report file before pseudo-submission. |
+| Day | Task | Start Date | End Date | References |
+| --- | --- | --- | --- | --- |
+| Mon | Gather technical proofs and write the project report. | 16/03 | 16/03 | - |
+| Tue | Edit contents, architectural diagrams, and source code in the report. | 17/03 | 17/03 | - |
+| Wed | Continue finalizing report documentation. | 18/03 | 18/03 | - |
+| Thu | Review Worklog records, ensuring professionalism. | 19/03 | 19/03 | - |
+| Fri | Package EduTrust source code and prepare Docker manuals. <br> + Assist configuring Custom Domain and testing it on AWS Amplify Frontend. <br> + Prepare presentation slides tracking progress and results. <br> + Final review of the entire report file before pseudo-submission. | 20/03 | 20/03 | - |
 
 ### Results achieved in week 11:
 * Finalized project report draft encompassing full professional aspects.

@@ -18,12 +18,12 @@ pre: " <b> 1.11. </b> "
 * Chuẩn bị nội dung thuyết trình kết quả đồ án trước nhóm.
 
 ### Các công việc cần triển khai trong tuần này:
-| Thứ | Ngày | Công việc |
-| --- | --- | --- |
-| 2 | 16/03 | Tập hợp các minh chứng kỹ thuật và soạn thảo báo cáo đồ án. |
-| 3-4 | 17-18/03 | Chỉnh sửa nội dung, sơ đồ kiến trúc và mã nguồn trong báo cáo. |
-| 5 | 19/03 | Rà soát Nhật ký công việc (Worklog) đảm bảo tính chuyên nghiệp. |
-| 6 | 20/03 | Đóng gói mã nguồn EduTrust và chuẩn bị hướng dẫn cài đặt Docker.<br> + Hỗ trợ thiết lập Custom Domain và thử nghiệm gắn trên AWS Amplify Frontend. <br> + Soạn thảo slide thuyết trình tổng kết tiến độ và kết quả. <br> + Kiểm tra tổng thể tệp báo cáo lần cuối trước khi nộp thử. |
+| Thứ | Công việc | Ngày bắt đầu | Ngày kết thúc | Tài liệu tham khảo |
+| --- | --- | --- | --- | --- |
+| 2 | Tập hợp các minh chứng kỹ thuật và soạn thảo báo cáo đồ án. | 16/03 | 16/03 | - |
+| 3-4 | Chỉnh sửa nội dung, sơ đồ kiến trúc và mã nguồn trong báo cáo. | 17-18/03 | 17-18/03 | - |
+| 5 | Rà soát Nhật ký công việc (Worklog) đảm bảo tính chuyên nghiệp. | 19/03 | 19/03 | - |
+| 6 | Đóng gói mã nguồn EduTrust và chuẩn bị hướng dẫn cài đặt Docker.<br> + Hỗ trợ thiết lập Custom Domain và thử nghiệm gắn trên AWS Amplify Frontend. <br> + Soạn thảo slide thuyết trình tổng kết tiến độ và kết quả. <br> + Kiểm tra tổng thể tệp báo cáo lần cuối trước khi nộp thử. | 20/03 | 20/03 | - |
 
 ### Kết quả đạt được tuần 11:
 * Hoàn thiện bản thảo báo cáo đồ án với đầy đủ các nội dung chuyên môn.

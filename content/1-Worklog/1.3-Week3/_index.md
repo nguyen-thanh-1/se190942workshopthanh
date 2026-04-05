@@ -19,13 +19,13 @@ pre: " <b> 1.3. </b> "
 * Finalize the SRS (Software Requirements Specification) document.
 
 ### Tasks to be implemented this week:
-| Day | Date | Task |
-| --- | --- | --- |
-| Mon | 19/01 | Group meeting to unify main modules: Online Exam, AI Proctoring, and Chatbot. |
-| Tue | 20/01 | List features (Features List) for 3 roles: Admin, Teacher, Student. |
-| Wed | 21/01 | Write the SRS document detailing screens and violation processing logic. |
-| Thu | 22/01 | Research MongoDB Atlas and design Schema (collections: users, exams, violations). |
-| Fri | 23/01 | Draw the system architecture diagram combining FastAPI and Next.js. <br> + Design data flow for the real-time camera proctoring feature. <br> + Review the entire design with the AI Engineer team. |
+| Day | Task | Start Date | End Date | References |
+| --- | --- | --- | --- | --- |
+| Mon | Group meeting to unify main modules: Online Exam, AI Proctoring, and Chatbot. | 19/01 | 19/01 | - |
+| Tue | List features (Features List) for 3 roles: Admin, Teacher, Student. | 20/01 | 20/01 | - |
+| Wed | Write the SRS document detailing screens and violation processing logic. | 21/01 | 21/01 | - |
+| Thu | Research MongoDB Atlas and design Schema (collections: users, exams, violations). | 22/01 | 22/01 | - |
+| Fri | Draw the system architecture diagram combining FastAPI and Next.js. <br> + Design data flow for the real-time camera proctoring feature. <br> + Review the entire design with the AI Engineer team. | 23/01 | 23/01 | - |
 
 ### Results achieved in week 3:
 * Completed the EduTrust architectural framework aimed at scalability on AWS.

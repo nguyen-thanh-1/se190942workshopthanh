@@ -19,13 +19,13 @@ pre: " <b> 1.8. </b> "
 * Tối ưu hóa hiệu năng truy xuất dữ liệu từ MongoDB.
 
 ### Các công việc cần triển khai trong tuần này:
-| Thứ | Ngày | Công việc |
-| --- | --- | --- |
-| 2 | 23/02 | Phát triển tính năng xem danh sách sinh viên dự thi cho giáo viên.<br> + Kết nối dữ liệu báo cáo gian lận S3 vào màn hình trực quan. |
-| 3 | 24/02 | Lập trình logic xuất báo cáo kết quả thi ra định dạng Excel/CSV. |
-| 4 | 25/02 | Tích hợp Amazon SES để gửi email kết quả tự động cho sinh viên. |
-| 5 | 26/02 | Thiết lập Redis để cache kết quả tìm kiếm và danh sách lớp học. |
-| 6 | 27/02 | Sửa lỗi định dạng tiếng Việt khi xuất báo cáo từ MongoDB. <br> + Kiểm tra luồng gửi email thực tế với tài khoản Amazon SES. <br> + Review mã nguồn module báo cáo cùng nhóm Backend. |
+| Thứ | Công việc | Ngày bắt đầu | Ngày kết thúc | Tài liệu tham khảo |
+| --- | --- | --- | --- | --- |
+| 2 | Phát triển tính năng xem danh sách sinh viên dự thi cho giáo viên.<br> + Kết nối dữ liệu báo cáo gian lận S3 vào màn hình trực quan. | 23/02 | 23/02 | - |
+| 3 | Lập trình logic xuất báo cáo kết quả thi ra định dạng Excel/CSV. | 24/02 | 24/02 | - |
+| 4 | Tích hợp Amazon SES để gửi email kết quả tự động cho sinh viên. | 25/02 | 25/02 | - |
+| 5 | Thiết lập Redis để cache kết quả tìm kiếm và danh sách lớp học. | 26/02 | 26/02 | - |
+| 6 | Sửa lỗi định dạng tiếng Việt khi xuất báo cáo từ MongoDB. <br> + Kiểm tra luồng gửi email thực tế với tài khoản Amazon SES. <br> + Review mã nguồn module báo cáo cùng nhóm Backend. | 27/02 | 27/02 | - |
 
 ### Kết quả đạt được tuần 8:
 * Hệ thống có khả năng quản lý và xuất dữ liệu báo cáo chuyên nghiệp. Hoàn thành luồng xuất báo cáo đầy đủ, FrontEnd nhận và hiển thị hình ảnh minh chứng vi phạm trực quan.

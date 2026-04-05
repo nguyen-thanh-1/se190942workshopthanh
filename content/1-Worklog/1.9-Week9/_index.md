@@ -20,13 +20,13 @@ pre: " <b> 1.9. </b> "
 * Optimize AI accuracy based on lecture knowledge base.
 
 ### Tasks to be implemented this week:
-| Day | Date | Task |
-| --- | --- | --- |
-| Mon | 02/03 | Research RAG processes for AI using Pydantic AI. |
-| Tue | 03/03 | Connect S3 data into Vector Database serving information retrieval. |
-| Wed | 04/03 | Integrate Multi-agent system to grant Chatbot high expertise. <br> + Channel chat connection API to Next.js via Continuous Streaming for typing effects. |
-| Thu | 05/03 | Build Chatbot interface with Next.js, supporting Markdown formats. <br> + Coordinate Backend stream responses so the typing flows smoothly without breaking UI. |
-| Fri | 06/03 | Optimize Prompt Engineering to enhance response quality. <br> + Test Chatbot features on both Web and Mobile interfaces. <br> + Evaluate Chatbot efficiency with the AI development team. |
+| Day | Task | Start Date | End Date | References |
+| --- | --- | --- | --- | --- |
+| Mon | Research RAG processes for AI using Pydantic AI. | 02/03 | 02/03 | - |
+| Tue | Connect S3 data into Vector Database serving information retrieval. | 03/03 | 03/03 | - |
+| Wed | Integrate Multi-agent system to grant Chatbot high expertise. <br> + Channel chat connection API to Next.js via Continuous Streaming for typing effects. | 04/03 | 04/03 | - |
+| Thu | Build Chatbot interface with Next.js, supporting Markdown formats. <br> + Coordinate Backend stream responses so the typing flows smoothly without breaking UI. | 05/03 | 05/03 | - |
+| Fri | Optimize Prompt Engineering to enhance response quality. <br> + Test Chatbot features on both Web and Mobile interfaces. <br> + Evaluate Chatbot efficiency with the AI development team. | 06/03 | 06/03 | - |
 
 ### Results achieved in week 9:
 * Chatbot is capable of answering questions based on lecture content.

@@ -19,13 +19,13 @@ pre: " <b> 1.6. </b> "
 * Build Dashboard interface for educational management.
 
 ### Tasks to be implemented this week:
-| Day | Date | Task |
-| --- | --- | --- |
-| Mon | 09/02 | Initialize Next.js 16 project, configure App Router and Lucide Icons. |
-| Tue | 10/02 | Design general Layout structure (Sidebar, Navbar, Breadcrumbs). |
-| Wed | 11/02 | Build the class management interface and student lists. |
-| Thu | 12/02 | Develop the exam creation form with multiple-choice questions feature. |
-| Fri | 13/02 | Integrate Tailwind CSS v4 for UI elements. <br> + Support Frontend with Layout authorization for distinct Admin and Teacher displays. <br> + Test Dashboard display on Mobile and Tablet. <br> + Optimize page render performance using Server Components. |
+| Day | Task | Start Date | End Date | References |
+| --- | --- | --- | --- | --- |
+| Mon | Initialize Next.js 16 project, configure App Router and Lucide Icons. | 09/02 | 09/02 | - |
+| Tue | Design general Layout structure (Sidebar, Navbar, Breadcrumbs). | 10/02 | 10/02 | - |
+| Wed | Build the class management interface and student lists. | 11/02 | 11/02 | - |
+| Thu | Develop the exam creation form with multiple-choice questions feature. | 12/02 | 12/02 | - |
+| Fri | Integrate Tailwind CSS v4 for UI elements. <br> + Support Frontend with Layout authorization for distinct Admin and Teacher displays. <br> + Test Dashboard display on Mobile and Tablet. <br> + Optimize page render performance using Server Components. | 13/02 | 13/02 | - |
 
 ### Results achieved in week 6:
 * Completed professional Dashboard interface framework.

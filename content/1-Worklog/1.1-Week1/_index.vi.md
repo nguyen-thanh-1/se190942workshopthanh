@@ -21,13 +21,13 @@ pre: " <b> 1.1. </b> "
    * Thử nghiệm phân quyền nghiêm ngặt với IAM (Access Key hạn chế quyền) để Backend sau này thao tác an toàn với Bucket S3.
 
 ### Các công việc cần triển khai trong tuần này:
-| Thứ | Ngày | Công việc |
-| --- | --- | --- |
-| 2 | 05/01 | Làm quen và kết nối với các thành viên trong nhóm 5 người.<br> + Xác lập và phân rã các Role rõ ràng cho mảng Backend và AI để chuẩn bị cho kiến trúc chung. |
-| 3 | 06/01 | Thảo luận và thống nhất tên đề tài: "EduTrust - Nền tảng giám sát thi trực tuyến". |
-| 4 | 07/01 | Thiết lập cấu trúc Git monorepo và quy trình làm việc nhóm. |
-| 5 | 08/01 | Làm quen với Jira, phân chia vai trò cho các thành viên. |
-| 6 | 09/01 | Đăng ký tài khoản AWS, cấu hình bảo mật MFA cho tài khoản Root. <br> + Tìm hiểu khái quát về các mô hình IaaS, PaaS cho phát triển Fullstack. <br> + Tổng kết tuần và chuẩn bị nghiên cứu database. |
+| Thứ | Công việc | Ngày bắt đầu | Ngày kết thúc | Tài liệu tham khảo |
+| --- | --- | --- | --- | --- |
+| 2 | Làm quen và kết nối với các thành viên trong nhóm 5 người.<br> + Xác lập và phân rã các Role rõ ràng cho mảng Backend và AI để chuẩn bị cho kiến trúc chung. | 05/01 | 05/01 | - |
+| 3 | Thảo luận và thống nhất tên đề tài: "EduTrust - Nền tảng giám sát thi trực tuyến". | 06/01 | 06/01 | - |
+| 4 | Thiết lập cấu trúc Git monorepo và quy trình làm việc nhóm. | 07/01 | 07/01 | - |
+| 5 | Làm quen với Jira, phân chia vai trò cho các thành viên. | 08/01 | 08/01 | - |
+| 6 | Đăng ký tài khoản AWS, cấu hình bảo mật MFA cho tài khoản Root. <br> + Tìm hiểu khái quát về các mô hình IaaS, PaaS cho phát triển Fullstack. <br> + Tổng kết tuần và chuẩn bị nghiên cứu database. | 09/01 | 09/01 | - |
 
 ### Kết quả đạt được tuần 1:
 * Thống nhất đề tài và có kế hoạch sơ bộ cho đồ án.

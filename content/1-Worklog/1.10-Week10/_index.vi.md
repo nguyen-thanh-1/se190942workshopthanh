@@ -20,13 +20,13 @@ pre: " <b> 1.10. </b> "
    * Giả lập một lượng lớn học sinh làm bài thi và dùng Camera gửi các snapshot liên tục lên S3 cùng lúc để tối ưu rào cản băng thông thực tế.
 
 ### Các công việc cần triển khai trong tuần này:
-| Thứ | Ngày | Công việc |
-| --- | --- | --- |
-| 2 | 09/03 | Cấu hình AWS CloudWatch giám sát log từ FastAPI và Next.js. |
-| 3 | 10/03 | Debug và tối ưu hóa thời gian phản hồi của các AI Agent. |
-| 4 | 11/03 | Thiết lập quy trình sao lưu (Backup) tự động cho MongoDB Atlas. |
-| 5 | 12/03 | Kiểm tra bảo mật S3 Bucket, đảm bảo chỉ truy cập qua Presigned URL. |
-| 6 | 13/03 | Thực hiện Stress Test giả lập nhiều học sinh cùng thi một lúc.<br> + Kiểm định cường độ tải của AWS EC2 Load Balancer khi gọi API đồng loạt. <br> + Hoàn thiện tài liệu hướng dẫn vận hành và quản trị hệ thống. <br> + Kiểm tra tính ổn định của Docker containers trên môi trường AWS. |
+| Thứ | Công việc | Ngày bắt đầu | Ngày kết thúc | Tài liệu tham khảo |
+| --- | --- | --- | --- | --- |
+| 2 | Cấu hình AWS CloudWatch giám sát log từ FastAPI và Next.js. | 09/03 | 09/03 | - |
+| 3 | Debug và tối ưu hóa thời gian phản hồi của các AI Agent. | 10/03 | 10/03 | - |
+| 4 | Thiết lập quy trình sao lưu (Backup) tự động cho MongoDB Atlas. | 11/03 | 11/03 | - |
+| 5 | Kiểm tra bảo mật S3 Bucket, đảm bảo chỉ truy cập qua Presigned URL. | 12/03 | 12/03 | - |
+| 6 | Thực hiện Stress Test giả lập nhiều học sinh cùng thi một lúc.<br> + Kiểm định cường độ tải của AWS EC2 Load Balancer khi gọi API đồng loạt. <br> + Hoàn thiện tài liệu hướng dẫn vận hành và quản trị hệ thống. <br> + Kiểm tra tính ổn định của Docker containers trên môi trường AWS. | 13/03 | 13/03 | - |
 
 ### Kết quả đạt được tuần 10:
 * Hệ thống được giám sát chặt chẽ, sẵn sàng ứng phó với các sự cố kỹ thuật. Ghi nhận thông suốt Logfire của Pydantic AI về Cloudwatch.
