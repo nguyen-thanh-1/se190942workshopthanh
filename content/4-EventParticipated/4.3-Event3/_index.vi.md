@@ -7,7 +7,7 @@ pre: " <b> 4.3. </b> "
 ---
 
 # Bài thu hoạch “Cloud Mastery Series #2: DevOps Fundamentals & Infrastructure”
-
+![event3](3.jpg)
 ### Thông tin sự kiện
 
 - **Tên sự kiện:** Cloud Mastery Series #2: DevOps Fundamentals & Infrastructure  
@@ -81,7 +81,8 @@ Chuỗi workshop mang lại một hành trình từ hạ tầng đến ứng d�
 
 ### Một số hình ảnh tham gia sự kiện
 
-(Chưa có ảnh sự kiện)
+![event3](1.jpg?width=600px&height=400px)
+![event3](2.jpg?width=600px&height=400px)
 
 ### Tổng kết
 

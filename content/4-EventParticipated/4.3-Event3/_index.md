@@ -7,7 +7,7 @@ pre: " <b> 4.3. </b> "
 ---
 
 # Summary Report: “Cloud Mastery Series #2: DevOps Fundamentals & Infrastructure”
-
+![event3](3.jpg)
 ### Event Information
 
 - **Event Name:** Cloud Mastery Series #2: DevOps Fundamentals & Infrastructure  
@@ -81,7 +81,8 @@ The workshop series provided a very logical journey from infrastructure to appli
 
 ### Event Photos
 
-(No event photos yet)
+![event3](1.jpg?width=600px&height=400px)
+![event3](2.jpg?width=600px&height=400px)
 
 ### Conclusion
 
