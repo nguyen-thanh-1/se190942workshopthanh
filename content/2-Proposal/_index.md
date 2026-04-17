@@ -36,7 +36,7 @@ The solution helps reduce the manual proctoring workload for teachers, improving
 ### 3. Solution Architecture
 The platform applies a **Fullstack monorepo** architecture with a Python (FastAPI) backend and a Next.js frontend, deployed via Docker containers. Data is stored on MongoDB (collections: users, exams, classes, submissions, violations), conversation sessions are cached on Redis, and violation images are on Amazon S3.
 
-![EduTrust Solution Architecture](edutrust-architect.png)
+![EduTrust Solution Architecture](FCAJ-Final.webp)
 
 *Services & Technology Used (by architecture)*
 - *AWS Amplify + CloudFront*: Next.js frontend hosting and content delivery via CDN.
@@ -99,21 +99,23 @@ The project is divided into 5 main phases:
 - Violation data stored on S3 (~10–20 GB/month).
 
 *Infrastructure Costs (monthly – estimated)*
-- VPC Endpoints (Interface for ECR/SSM/STS/Logs…): ~$30–60
-- EC2 Auto Scaling (2 x t3.small): ~$30–40
-- Application Load Balancer: ~$16–25
-- Amazon S3 (violation images, ALB logs, terraform state): ~$2–6
-- Amazon CloudFront + Amplify: ~$1–5
-- AWS WAF: ~$5–10
-- Amazon ElastiCache (Redis – small cache): ~$15–25
-- Amazon DynamoDB (low traffic): ~$1–3
-- Amazon ECR (image storage): ~$1–3
-- Amazon Cognito (<= 50k MAU): ~$0–2
-- Amazon CloudWatch + VPC Flow Logs + SNS: ~$5–10
-- AWS KMS + SSM Parameter Store: ~$1–3
-- Data Transfer: ~$2–6
 
-*Total Estimated*: ~$110–195/month (including VPC Endpoints; depends on traffic and S3 storage)
+| Service | TP ($) | Forcasting 1 month ($) |
+| :--- | :--- | :--- |
+| VPC | 0.00 | 0.00 |
+| EC2-Other | 1.57 | 47.10 |
+| EC2-Instances | 1.27 | 38.10 |
+| Elastic Load Balancing | 0.61 | 18.30 |
+| Amplify | 0.62 | 18.60 |
+| WAF | 0.53 | 15.90 |
+| ElastiCache | 0 - 1.15 | 9 - 14 |
+| KMS | - | 2.00 |
+| Route 53 | 0.51 | |
+| ECR | - | 0.3 (3GB) |
+| S3 | - | 0.03 (1GB) |
+| DynamoDB | 0.00 | 0.00 |
+| Cognito | 0.00 | 0.00 |
+| SNS | 0.00 | 0.00 |
 
 *Third-party API Costs*
 - OpenAI/LiteLLM API: based on usage.
