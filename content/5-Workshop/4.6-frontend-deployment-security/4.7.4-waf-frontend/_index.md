@@ -12,12 +12,12 @@ Protect the frontend layer (CloudFront) using WAF.
 
 #### Manage Amplify-Created WAF
 
-When deploying an application using AWS Amplify, a Web ACL (WAF) is usually automatically created and attached to your frontend's CloudFront Distribution. You do not need to create it manually from scratch.
+When deploying an application using AWS Amplify, a Web ACL (WAF) is usually automatically created and attached to your frontend's CloudFront Distribution.
 
    ![WAF](waf.png)
 
    *Check WAF*
 
-#### Note
+<!-- #### Note
 
-1. Always prioritize enabling monitor mode (Count) first, combine it with reviewing CloudWatch logs, before switching to full blocking mode (Block) if necessary to avoid disrupting valid users.
+1. Always prioritize enabling monitor mode (Count) first, combine it with reviewing CloudWatch logs, before switching to full blocking mode (Block) if necessary to avoid disrupting valid users. -->
